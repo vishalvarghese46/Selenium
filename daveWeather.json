@@ -1,0 +1,507 @@
+[
+  {
+    "name": "PLYMSTOCK",
+    "client": "Morrisons",
+    "site": "PLYMSTOCK Morrisons"
+  },
+  {
+    "name": "REDRUTH",
+    "client": "Morrisons",
+    "site": "REDRUTH Morrisons"
+  },
+  {
+    "name": "SWINDON",
+    "client": "Morrisons",
+    "site": "SWINDON Morrisons"
+  },
+  {
+    "name": "SWINDON  DORCAN WAY",
+    "client": "Morrisons",
+    "site": "SWINDON  DORCAN WAY Morrisons"
+  },
+  {
+    "name": "SWINDON REGENTS",
+    "client": "Morrisons",
+    "site": "SWINDON REGENTS Morrisons"
+  },
+  {
+    "name": "TAUNTON",
+    "client": "Morrisons",
+    "site": "TAUNTON Morrisons"
+  },
+  {
+    "name": "TAVISTOCK",
+    "client": "Morrisons",
+    "site": "TAVISTOCK Morrisons"
+  },
+  {
+    "name": "TEIGNMOUTH",
+    "client": "Morrisons",
+    "site": "TEIGNMOUTH Morrisons"
+  },
+  {
+    "name": "TEWKESBURY",
+    "client": "Morrisons",
+    "site": "TEWKESBURY Morrisons"
+  },
+  {
+    "name": "TIVERTON",
+    "client": "Morrisons",
+    "site": "TIVERTON Morrisons"
+  },
+  {
+    "name": "TOTNES",
+    "client": "Morrisons",
+    "site": "TOTNES Morrisons"
+  },
+  {
+    "name": "UP HATHERLEY",
+    "client": "Morrisons",
+    "site": "UP HATHERLEY Morrisons"
+  },
+  {
+    "name": "VERWOOD",
+    "client": "Morrisons",
+    "site": "VERWOOD Morrisons"
+  },
+  {
+    "name": "WARMINSTER",
+    "client": "Morrisons",
+    "site": "WARMINSTER Morrisons"
+  },
+  {
+    "name": "WELLS",
+    "client": "Morrisons",
+    "site": "WELLS Morrisons"
+  },
+  {
+    "name": "WESTBURY",
+    "client": "Morrisons",
+    "site": "WESTBURY Morrisons"
+  },
+  {
+    "name": "WESTONSUPERMARE",
+    "client": "Morrisons",
+    "site": "WESTONSUPERMARE Morrisons"
+  },
+  {
+    "name": "WEYMOUTH",
+    "client": "Morrisons",
+    "site": "WEYMOUTH Morrisons"
+  },
+  {
+    "name": "WINCANTON SOUTHGATE ROAD",
+    "client": "Morrisons",
+    "site": "WINCANTON SOUTHGATE ROAD Morrisons"
+  },
+  {
+    "name": "YATE",
+    "client": "Morrisons",
+    "site": "YATE Morrisons"
+  },
+  {
+    "name": "YEOVIL",
+    "client": "Morrisons",
+    "site": "YEOVIL Morrisons"
+  },
+  {
+    "name": "ABERYSTWYTH",
+    "client": "Morrisons",
+    "site": "ABERYSTWYTH Morrisons"
+  },
+  {
+    "name": "BAGLAN",
+    "client": "Morrisons",
+    "site": "BAGLAN Morrisons"
+  },
+  {
+    "name": "BANGOR",
+    "client": "Morrisons",
+    "site": "BANGOR Morrisons"
+  },
+  {
+    "name": "BARGOED",
+    "client": "Morrisons",
+    "site": "BARGOED Morrisons"
+  },
+  {
+    "name": "BARRY",
+    "client": "Morrisons",
+    "site": "BARRY Morrisons"
+  },
+  {
+    "name": "BRECON",
+    "client": "Morrisons",
+    "site": "BRECON Morrisons"
+  },
+  {
+    "name": "CAERNARFON",
+    "client": "Morrisons",
+    "site": "CAERNARFON Morrisons"
+  },
+  {
+    "name": "CAERPHILLY",
+    "client": "Morrisons",
+    "site": "CAERPHILLY Morrisons"
+  },
+  {
+    "name": "CARDIFF BAY",
+    "client": "Morrisons",
+    "site": "CARDIFF BAY Morrisons"
+  },
+  {
+    "name": "CARDIFF NEWPORT ROAD",
+    "client": "Morrisons",
+    "site": "CARDIFF NEWPORT ROAD Morrisons"
+  },
+  {
+    "name": "CARDIFF TYGLAS",
+    "client": "Morrisons",
+    "site": "CARDIFF TYGLAS Morrisons"
+  },
+  {
+    "name": "CARMARTHEN",
+    "client": "Morrisons",
+    "site": "CARMARTHEN Morrisons"
+  },
+  {
+    "name": "COLWYN BAY",
+    "client": "Morrisons",
+    "site": "COLWYN BAY Morrisons"
+  },
+  {
+    "name": "CWMBRAN",
+    "client": "Morrisons",
+    "site": "CWMBRAN Morrisons"
+  },
+  {
+    "name": "DENBIGH",
+    "client": "Morrisons",
+    "site": "DENBIGH Morrisons"
+  },
+  {
+    "name": "EBBW VALE",
+    "client": "Morrisons",
+    "site": "EBBW VALE Morrisons"
+  },
+  {
+    "name": "HAVERFORDWEST",
+    "client": "Morrisons",
+    "site": "HAVERFORDWEST Morrisons"
+  },
+  {
+    "name": "HOLYHEAD",
+    "client": "Morrisons",
+    "site": "HOLYHEAD Morrisons"
+  },
+  {
+    "name": "LLANELLI",
+    "client": "Morrisons",
+    "site": "LLANELLI Morrisons"
+  },
+  {
+    "name": "NEATH",
+    "client": "Morrisons",
+    "site": "NEATH Morrisons"
+  },
+  {
+    "name": "NEWPORT",
+    "client": "Morrisons",
+    "site": "NEWPORT Morrisons"
+  },
+  {
+    "name": "NEWTOWN",
+    "client": "Morrisons",
+    "site": "NEWTOWN Morrisons"
+  },
+  {
+    "name": "OSWESTRY",
+    "client": "Morrisons",
+    "site": "OSWESTRY Morrisons"
+  },
+  {
+    "name": "PORTH",
+    "client": "Morrisons",
+    "site": "PORTH Morrisons"
+  },
+  {
+    "name": "RHYL",
+    "client": "Morrisons",
+    "site": "RHYL Morrisons"
+  },
+  {
+    "name": "ROGERSTONE",
+    "client": "Morrisons",
+    "site": "ROGERSTONE Morrisons"
+  },
+  {
+    "name": "SHREWSBURY",
+    "client": "Morrisons",
+    "site": "SHREWSBURY Morrisons"
+  },
+  {
+    "name": "SWANSEA",
+    "client": "Morrisons",
+    "site": "SWANSEA Morrisons"
+  },
+  {
+    "name": "WELSHPOOL",
+    "client": "Morrisons",
+    "site": "WELSHPOOL Morrisons"
+  },
+  {
+    "name": "WREXHAM",
+    "client": "Morrisons",
+    "site": "WREXHAM Morrisons"
+  },
+  {
+    "name": "ALDRIDGE",
+    "client": "Morrisons",
+    "site": "ALDRIDGE Morrisons"
+  },
+  {
+    "name": "BILSTON",
+    "client": "Morrisons",
+    "site": "BILSTON Morrisons"
+  },
+  {
+    "name": "BINLEY",
+    "client": "Morrisons",
+    "site": "BINLEY Morrisons"
+  },
+  {
+    "name": "BROMSGROVE",
+    "client": "Morrisons",
+    "site": "BROMSGROVE Morrisons"
+  },
+  {
+    "name": "BURNTWOOD",
+    "client": "Morrisons",
+    "site": "BURNTWOOD Morrisons"
+  },
+  {
+    "name": "CANNOCK",
+    "client": "Morrisons",
+    "site": "CANNOCK Morrisons"
+  },
+  {
+    "name": "CASTLE BROMWICH",
+    "client": "Morrisons",
+    "site": "CASTLE BROMWICH Morrisons"
+  },
+  {
+    "name": "CHEADLE",
+    "client": "Morrisons",
+    "site": "CHEADLE Morrisons"
+  },
+  {
+    "name": "COLESHILL",
+    "client": "Morrisons",
+    "site": "COLESHILL Morrisons"
+  },
+  {
+    "name": "CORBY",
+    "client": "Morrisons",
+    "site": "CORBY Morrisons"
+  },
+  {
+    "name": "COVENTRY HOLYHEAD ROAD",
+    "client": "Morrisons",
+    "site": "COVENTRY HOLYHEAD ROAD Morrisons"
+  },
+  {
+    "name": "DROITWICH",
+    "client": "Morrisons",
+    "site": "DROITWICH Morrisons"
+  },
+  {
+    "name": "EDGBASTON",
+    "client": "Morrisons",
+    "site": "EDGBASTON Morrisons"
+  },
+  {
+    "name": "EVESHAM",
+    "client": "Morrisons",
+    "site": "EVESHAM Morrisons"
+  },
+  {
+    "name": "HEREFORD",
+    "client": "Morrisons",
+    "site": "HEREFORD Morrisons"
+  },
+  {
+    "name": "HOLBROOK",
+    "client": "Morrisons",
+    "site": "HOLBROOK Morrisons"
+  },
+  {
+    "name": "KETTERING",
+    "client": "Morrisons",
+    "site": "KETTERING Morrisons"
+  },
+  {
+    "name": "KIDDERMINSTER",
+    "client": "Morrisons",
+    "site": "KIDDERMINSTER Morrisons"
+  },
+  {
+    "name": "KINGSWINFORD",
+    "client": "Morrisons",
+    "site": "KINGSWINFORD Morrisons"
+  },
+  {
+    "name": "LEAMINGTON SPA",
+    "client": "Morrisons",
+    "site": "LEAMINGTON SPA Morrisons"
+  },
+  {
+    "name": "LEEK",
+    "client": "Morrisons",
+    "site": "LEEK Morrisons"
+  },
+  {
+    "name": "LEOMINSTER",
+    "client": "Morrisons",
+    "site": "LEOMINSTER Morrisons"
+  },
+  {
+    "name": "LICHFIELD",
+    "client": "Morrisons",
+    "site": "LICHFIELD Morrisons"
+  },
+  {
+    "name": "MALVERN",
+    "client": "Morrisons",
+    "site": "MALVERN Morrisons"
+  },
+  {
+    "name": "MARKET DRAYTON",
+    "client": "Morrisons",
+    "site": "MARKET DRAYTON Morrisons"
+  },
+  {
+    "name": "NEWCASTLEUNDERLYME GOOSE STREET",
+    "client": "Morrisons",
+    "site": "NEWCASTLEUNDERLYME GOOSE STREET Morrisons"
+  },
+  {
+    "name": "NEWCASTLEUNDERLYME MILEHOUSE LANE",
+    "client": "Morrisons",
+    "site": "NEWCASTLEUNDERLYME MILEHOUSE LANE Morrisons"
+  },
+  {
+    "name": "NORTHAMPTON KETTERING ROAD",
+    "client": "Morrisons",
+    "site": "NORTHAMPTON KETTERING ROAD Morrisons"
+  },
+  {
+    "name": "NORTHAMPTON VICTORIA PROMENADE",
+    "client": "Morrisons",
+    "site": "NORTHAMPTON VICTORIA PROMENADE Morrisons"
+  },
+  {
+    "name": "PENDEFORD",
+    "client": "Morrisons",
+    "site": "PENDEFORD Morrisons"
+  },
+  {
+    "name": "REDDITCH",
+    "client": "Morrisons",
+    "site": "REDDITCH Morrisons"
+  },
+  {
+    "name": "ROSS ON WYE",
+    "client": "Morrisons",
+    "site": "ROSS ON WYE Morrisons"
+  },
+  {
+    "name": "RUBERY",
+    "client": "Morrisons",
+    "site": "RUBERY Morrisons"
+  },
+  {
+    "name": "RUGELEY",
+    "client": "Morrisons",
+    "site": "RUGELEY Morrisons"
+  },
+  {
+    "name": "SHELDON",
+    "client": "Morrisons",
+    "site": "SHELDON Morrisons"
+  },
+  {
+    "name": "SHIRLEY",
+    "client": "Morrisons",
+    "site": "SHIRLEY Morrisons"
+  },
+  {
+    "name": "SMALL HEATH",
+    "client": "Morrisons",
+    "site": "SMALL HEATH Morrisons"
+  },
+  {
+    "name": "SOLIHULL",
+    "client": "Morrisons",
+    "site": "SOLIHULL Morrisons"
+  },
+  {
+    "name": "STOKE",
+    "client": "Morrisons",
+    "site": "STOKE Morrisons"
+  },
+  {
+    "name": "STONE",
+    "client": "Morrisons",
+    "site": "STONE Morrisons"
+  },
+  {
+    "name": "STRATFORD UPON AVON",
+    "client": "Morrisons",
+    "site": "STRATFORD UPON AVON Morrisons"
+  },
+  {
+    "name": "TAMWORTH",
+    "client": "Morrisons",
+    "site": "TAMWORTH Morrisons"
+  },
+  {
+    "name": "TAMWORTH UPPER GUNGATE",
+    "client": "Morrisons",
+    "site": "TAMWORTH UPPER GUNGATE Morrisons"
+  },
+  {
+    "name": "TELFORD LAWLEY",
+    "client": "Morrisons",
+    "site": "TELFORD LAWLEY Morrisons"
+  },
+  {
+    "name": "WALSALL LICHFIELD STREET",
+    "client": "Morrisons",
+    "site": "WALSALL LICHFIELD STREET Morrisons"
+  },
+  {
+    "name": "WALSALL WALLOWS LANE",
+    "client": "Morrisons",
+    "site": "WALSALL WALLOWS LANE Morrisons"
+  },
+  {
+    "name": "WEDNESBURY",
+    "client": "Morrisons",
+    "site": "WEDNESBURY Morrisons"
+  },
+  {
+    "name": "WELLINGBOROUGH",
+    "client": "Morrisons",
+    "site": "WELLINGBOROUGH Morrisons"
+  },
+  {
+    "name": "WELLINGTON",
+    "client": "Morrisons",
+    "site": "WELLINGTON Morrisons"
+  },
+  {
+    "name": "WILLENHALL",
+    "client": "Morrisons",
+    "site": "WILLENHALL Morrisons"
+  }
+]
