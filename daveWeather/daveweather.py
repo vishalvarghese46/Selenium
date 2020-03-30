@@ -3,8 +3,9 @@ import time
 import json
 from selenium.webdriver.common.keys import Keys
 
-driver = webdriver.Chrome(executable_path="C:\\Users\\Optimised\\Downloads\\chromedriver.exe")
-
+driverPath = r'C:\Users\visha\Downloads'
+driver = webdriver.Chrome(executable_path=f"{driverPath}\chromedriver.exe")
+driver.maximize_window()
 driver.get("https://nweather.futuredecisions.net")
 
 driver.find_element_by_name('email').send_keys('peterreeves@optimisedbuildings.com')

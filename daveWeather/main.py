@@ -3,8 +3,8 @@ import time
 import json
 from selenium.webdriver.common.keys import Keys
 
-driver = webdriver.Chrome(executable_path="C:\\Users\\Optimised\\Downloads\\chromedriver.exe")
-
+driverPath = r'C:\Users\visha\Downloads'
+driver = webdriver.Chrome(executable_path=f"{driverPath}\chromedriver.exe")
 driver.get("https://nweather.futuredecisions.net")
 
 driver.find_element_by_name('email').send_keys('peterreeves@optimisedbuildings.com')
@@ -24,6 +24,6 @@ for location in data:
     driver.find_element_by_xpath('/html/body/app-root/app-topnavigationlayout/div/div/app-client-keys-create/div/div/div/form/app-ibox/div/div[2]/div/div[4]/div[2]/button').click()
     time.sleep(8)
     driver.find_element_by_class_name('swal-button-container').click()
-    time.sleep(8)
     print(location['name'], "done")
+    time.sleep(8)
 print("ALL IS DONE!!")
