@@ -2,26 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b6d07a6-e36a-48ad-8abb-f5fbe7525c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SeleniumLocal/daveWeather/Selenium/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daveWeather/Selenium/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumLocal/daveWeather/Selenium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumLocal/daveWeather/Selenium/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumLocal/daveWeather/Selenium/daveweather.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumLocal/daveWeather/Selenium/daveweather.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumLocal/daveWeather/Selenium/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumLocal/daveWeather/Selenium/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumLocal/daveWeather/Selenium/wiki.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumLocal/daveWeather/Selenium/wiki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daveWeather.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daveweather.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_dexma.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collectionLearn/less1.py" beforeDir="false" afterPath="$PROJECT_DIR$/collectionsLearn/less1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daveWeather/Selenium" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/daveweather.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/daveweather.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/wiki.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/wiki.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,7 +38,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZqY7mil2EiURQjmlxUsJZotLZ5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -52,7 +54,78 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.wiki">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Python\Selenium\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.basicAuth">
+    <configuration name="basicAuth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/basicAuth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jwtDt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\Python\Selenium\test\jwtDt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="less1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collectionsLearn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collectionsLearn/less1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,6 +172,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.basicAuth" />
+        <item itemvalue="Python.jwtDt" />
+        <item itemvalue="Python.less1" />
         <item itemvalue="Python.wiki" />
         <item itemvalue="Python.main" />
       </list>
@@ -115,7 +191,7 @@
       <option name="presentableId" value="Default" />
       <updated>1557003181702</updated>
       <workItem from="1557003188574" duration="1006000" />
-      <workItem from="1585567926852" duration="521000" />
+      <workItem from="1585567926852" duration="8030000" />
     </task>
     <servers />
   </component>
@@ -123,29 +199,56 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585568385987">
+    <state width="1237" height="255" key="GridCell.Tab.0.bottom" timestamp="1585586418017">
+      <screen x="1920" y="0" width="1280" height="693" />
+    </state>
+    <state width="1877" height="255" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585585761675" />
+    <state width="1237" height="255" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1585586418017" />
+    <state width="1237" height="255" key="GridCell.Tab.0.center" timestamp="1585586418016">
+      <screen x="1920" y="0" width="1280" height="693" />
+    </state>
+    <state width="1877" height="255" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585585761674" />
+    <state width="1237" height="255" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1585586418016" />
+    <state width="1237" height="255" key="GridCell.Tab.0.left" timestamp="1585586418016">
+      <screen x="1920" y="0" width="1280" height="693" />
+    </state>
+    <state width="1877" height="255" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585585761674" />
+    <state width="1237" height="255" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1585586418016" />
+    <state width="1237" height="255" key="GridCell.Tab.0.right" timestamp="1585586418017">
+      <screen x="1920" y="0" width="1280" height="693" />
+    </state>
+    <state width="1877" height="255" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585585761674" />
+    <state width="1237" height="255" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1585586418017" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585583864235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585568385987" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585568385987">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585583864235" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1585583864235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585568385987" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585568385987">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585583864235" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1585583864235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585568385987" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585568385987">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585583864235" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1585583864235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585568385987" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1585567938221">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585583864235" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585583373760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585567938221" />
+    <state x="461" y="162" key="SettingsEditor/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585583373760" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585569516823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585569516823" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Selenium$wiki.coverage" NAME="wiki Coverage Results" MODIFIED="1585568227149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$less1.coverage" NAME="less1 Coverage Results" MODIFIED="1585569521214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collectionsLearn" />
+    <SUITE FILE_PATH="coverage/Selenium$req.coverage" NAME="req Coverage Results" MODIFIED="1585584886230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$main.coverage" NAME="main Coverage Results" MODIFIED="1585568086514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$basicAuth.coverage" NAME="basicAuth Coverage Results" MODIFIED="1585586251531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
 </project>
