@@ -19,7 +19,7 @@ jab = Scientist("Jabeena Ubaid", "chemistry", 1928, nobel=False)
 sal = Scientist("Sally Ride", "physics", 1928, nobel=False)
 ligi = Scientist("Ligi KL", "math",1930, nobel=True)
 shaddy = (ada,emmy,mar,tu,sal,ligi)
-pp.pprint(shaddy)
+#pp.pprint(shaddy)
 '''
 lol = tuple(map(lambda x: {
     'name': x.name, 'age': 2020-x.born}, shaddy))
@@ -28,4 +28,7 @@ pp.pprint(lol)
 
 '''
 
-pp.pprint(lor := [{'name': x.name, 'age':2020-x.born } for x in shaddy])
+#pp.pprint(lor := [{'name': x.name, 'age':2020-x.born } for x in shaddy])
+lol = filter(lambda x:x.nobel is True, shaddy)
+for i in lol:
+    print(i.name)
