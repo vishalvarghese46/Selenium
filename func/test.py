@@ -5,10 +5,15 @@ import json
 pp = PrettyPrinter(indent=4)
 
 shaddy=[]
-Store = namedtuple("Store", "no name elecMeter")
+Store = namedtuple("Store", "no name elecMeter gasMeter")
 
-data = json.load(jsonFile := open("elecDatabase.json"))
+data = json.load(jsonFile := open("meterRef.json"))
+
 for site in data:
-    shaddy.append(ob:=Store(site['no'],site['store'],site['device']))
-pp.pprint(tuple(shaddy))
+    g =lambda x: None if x == "" else x
+    shaddy.append(ob:=Store(site['id'],site['site'],site['elecMeter'], g(site['gasMeter'])))
+database = tuple(shaddy)
 
+g = filter(lambda x:x.gasMeter is not None, database)
+for i in g:
+    print(i)

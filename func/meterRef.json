@@ -1,0 +1,2840 @@
+[
+  {
+    "id": 82,
+    "site": "Barry",
+    "elecMeter": 433621,
+    "gasMeter": 424979
+  },
+  {
+    "id": 84,
+    "site": "Bristol Cribbs Causeway",
+    "elecMeter": 433665,
+    "gasMeter": 424986
+  },
+  {
+    "id": 85,
+    "site": "Grays",
+    "elecMeter": 433152,
+    "gasMeter": 425050
+  },
+  {
+    "id": 87,
+    "site": "Newport Gwent Rogerstone",
+    "elecMeter": 433611,
+    "gasMeter": 425223
+  },
+  {
+    "id": 95,
+    "site": "Ebbw Vale",
+    "elecMeter": 433613,
+    "gasMeter": 425033
+  },
+  {
+    "id": 96,
+    "site": "Baglan",
+    "elecMeter": 433612,
+    "gasMeter": 425226
+  },
+  {
+    "id": 130,
+    "site": "Swansea",
+    "elecMeter": 433614,
+    "gasMeter": 425314
+  },
+  {
+    "id": 140,
+    "site": "Strood",
+    "elecMeter": 423145,
+    "gasMeter": 425318
+  },
+  {
+    "id": 142,
+    "site": "Abbeydale",
+    "elecMeter": 433333,
+    "gasMeter": ""
+  },
+  {
+    "id": 143,
+    "site": "Bristol Hartcliffe",
+    "elecMeter": 433816,
+    "gasMeter": ""
+  },
+  {
+    "id": 157,
+    "site": "Cardiff Bay",
+    "elecMeter": 433600,
+    "gasMeter": 424951
+  },
+  {
+    "id": 158,
+    "site": "Crowborough",
+    "elecMeter": 423146,
+    "gasMeter": 425060
+  },
+  {
+    "id": 166,
+    "site": "Cwmbran",
+    "elecMeter": 433616,
+    "gasMeter": 425078
+  },
+  {
+    "id": 258,
+    "site": "Ross On Wye",
+    "elecMeter": 433314,
+    "gasMeter": ""
+  },
+  {
+    "id": 266,
+    "site": "Brecon",
+    "elecMeter": 433622,
+    "gasMeter": ""
+  },
+  {
+    "id": 268,
+    "site": "Caerphilly",
+    "elecMeter": 433625,
+    "gasMeter": 424959
+  },
+  {
+    "id": 269,
+    "site": "Cardiff Ty Glas",
+    "elecMeter": 433626,
+    "gasMeter": 424937
+  },
+  {
+    "id": 270,
+    "site": "Carmarthen",
+    "elecMeter": 433627,
+    "gasMeter": 424953
+  },
+  {
+    "id": 273,
+    "site": "Haverfordwest",
+    "elecMeter": 433624,
+    "gasMeter": ""
+  },
+  {
+    "id": 274,
+    "site": "Neath",
+    "elecMeter": 433628,
+    "gasMeter": ""
+  },
+  {
+    "id": 276,
+    "site": "Canvey Island Link Road",
+    "elecMeter": 433144,
+    "gasMeter": ""
+  },
+  {
+    "id": 281,
+    "site": "Southend (Eastwood)",
+    "elecMeter": 433137,
+    "gasMeter": 425016
+  },
+  {
+    "id": 283,
+    "site": "Felixstowe",
+    "elecMeter": 433119,
+    "gasMeter": 425013
+  },
+  {
+    "id": 284,
+    "site": "Hadleigh",
+    "elecMeter": 433160,
+    "gasMeter": ""
+  },
+  {
+    "id": 287,
+    "site": "Maldon",
+    "elecMeter": 433148,
+    "gasMeter": 425125
+  },
+  {
+    "id": 290,
+    "site": "Witham",
+    "elecMeter": 433130,
+    "gasMeter": 425280
+  },
+  {
+    "id": 293,
+    "site": "Canterbury",
+    "elecMeter": 423137,
+    "gasMeter": 424963
+  },
+  {
+    "id": 294,
+    "site": "Caterham",
+    "elecMeter": 423134,
+    "gasMeter": 425391
+  },
+  {
+    "id": 295,
+    "site": "Walderslade",
+    "elecMeter": 423141,
+    "gasMeter": 424921
+  },
+  {
+    "id": 297,
+    "site": "Folkestone",
+    "elecMeter": 423133,
+    "gasMeter": ""
+  },
+  {
+    "id": 298,
+    "site": "Gravesend",
+    "elecMeter": 426456,
+    "gasMeter": 425039
+  },
+  {
+    "id": 301,
+    "site": "Leighton Buzzard",
+    "elecMeter": 433123,
+    "gasMeter": 425413
+  },
+  {
+    "id": 315,
+    "site": "Maidstone",
+    "elecMeter": 423139,
+    "gasMeter": 425098
+  },
+  {
+    "id": 320,
+    "site": "Bath",
+    "elecMeter": 433663,
+    "gasMeter": ""
+  },
+  {
+    "id": 321,
+    "site": "Bideford",
+    "elecMeter": 433659,
+    "gasMeter": 424972
+  },
+  {
+    "id": 322,
+    "site": "Bodmin",
+    "elecMeter": 433650,
+    "gasMeter": 424956
+  },
+  {
+    "id": 323,
+    "site": "Bridgewater",
+    "elecMeter": 433656,
+    "gasMeter": 425000
+  },
+  {
+    "id": 324,
+    "site": "Fishponds",
+    "elecMeter": 433638,
+    "gasMeter": ""
+  },
+  {
+    "id": 325,
+    "site": "Bude",
+    "elecMeter": 433654,
+    "gasMeter": ""
+  },
+  {
+    "id": 326,
+    "site": "Up Hatherly",
+    "elecMeter": 433331,
+    "gasMeter": 424927
+  },
+  {
+    "id": 327,
+    "site": "Glastonbury",
+    "elecMeter": 433639,
+    "gasMeter": 425057
+  },
+  {
+    "id": 328,
+    "site": "Liskeard",
+    "elecMeter": 433653,
+    "gasMeter": 425092
+  },
+  {
+    "id": 329,
+    "site": "Newquay",
+    "elecMeter": 433648,
+    "gasMeter": 425168
+  },
+  {
+    "id": 330,
+    "site": "Paignton",
+    "elecMeter": 433657,
+    "gasMeter": 425230
+  },
+  {
+    "id": 331,
+    "site": "Penzance",
+    "elecMeter": 433646,
+    "gasMeter": 425181
+  },
+  {
+    "id": 332,
+    "site": "Plymouth",
+    "elecMeter": 433642,
+    "gasMeter": 425167
+  },
+  {
+    "id": 333,
+    "site": "Plymstock",
+    "elecMeter": 433661,
+    "gasMeter": 425214
+  },
+  {
+    "id": 334,
+    "site": "Redruth",
+    "elecMeter": 433647,
+    "gasMeter": 425177
+  },
+  {
+    "id": 335,
+    "site": "Taunton",
+    "elecMeter": 433649,
+    "gasMeter": 425251
+  },
+  {
+    "id": 336,
+    "site": "Tavistock",
+    "elecMeter": 433652,
+    "gasMeter": 425274
+  },
+  {
+    "id": 337,
+    "site": "Tewkesbury",
+    "elecMeter": 433300,
+    "gasMeter": ""
+  },
+  {
+    "id": 338,
+    "site": "Tiverton",
+    "elecMeter": 433643,
+    "gasMeter": 425315
+  },
+  {
+    "id": 339,
+    "site": "Totnes",
+    "elecMeter": 433651,
+    "gasMeter": 425286
+  },
+  {
+    "id": 340,
+    "site": "Warminster",
+    "elecMeter": 433594,
+    "gasMeter": ""
+  },
+  {
+    "id": 341,
+    "site": "Weston Super Mare",
+    "elecMeter": 433658,
+    "gasMeter": 425293
+  },
+  {
+    "id": 342,
+    "site": "Wincanton",
+    "elecMeter": 433596,
+    "gasMeter": 425283
+  },
+  {
+    "id": 343,
+    "site": "Yate",
+    "elecMeter": 433316,
+    "gasMeter": 425335
+  },
+  {
+    "id": 344,
+    "site": "Yeovil",
+    "elecMeter": 468545,
+    "gasMeter": ""
+  },
+  {
+    "id": 345,
+    "site": "Basingstoke",
+    "elecMeter": 433592,
+    "gasMeter": 424960
+  },
+  {
+    "id": 347,
+    "site": "Bridport",
+    "elecMeter": 433655,
+    "gasMeter": 424954
+  },
+  {
+    "id": 348,
+    "site": "Chippenham",
+    "elecMeter": 433585,
+    "gasMeter": 424998
+  },
+  {
+    "id": 349,
+    "site": "Devizes",
+    "elecMeter": 433586,
+    "gasMeter": 425011
+  },
+  {
+    "id": 351,
+    "site": "Farnborough",
+    "elecMeter": 433590,
+    "gasMeter": 425394
+  },
+  {
+    "id": 352,
+    "site": "Gosport",
+    "elecMeter": 423152,
+    "gasMeter": 425007
+  },
+  {
+    "id": 353,
+    "site": "Hastings",
+    "elecMeter": 423147,
+    "gasMeter": ""
+  },
+  {
+    "id": 354,
+    "site": "Horndean",
+    "elecMeter": 423153,
+    "gasMeter": 425116
+  },
+  {
+    "id": 355,
+    "site": "Newport IOW",
+    "elecMeter": 423155,
+    "gasMeter": ""
+  },
+  {
+    "id": 356,
+    "site": "Oxted",
+    "elecMeter": 433564,
+    "gasMeter": 425205
+  },
+  {
+    "id": 358,
+    "site": "Portsmouth Anchorage Park",
+    "elecMeter": 423151,
+    "gasMeter": 439285
+  },
+  {
+    "id": 359,
+    "site": "Reading",
+    "elecMeter": 433587,
+    "gasMeter": 425200
+  },
+  {
+    "id": 360,
+    "site": "Reigate",
+    "elecMeter": 423130,
+    "gasMeter": ""
+  },
+  {
+    "id": 361,
+    "site": "Sandown Lake",
+    "elecMeter": 423156,
+    "gasMeter": ""
+  },
+  {
+    "id": 362,
+    "site": "Seaford",
+    "elecMeter": 423136,
+    "gasMeter": 425386
+  },
+  {
+    "id": 363,
+    "site": "Swindon",
+    "elecMeter": 433588,
+    "gasMeter": 425266
+  },
+  {
+    "id": 364,
+    "site": "Totton",
+    "elecMeter": 423159,
+    "gasMeter": 425291
+  },
+  {
+    "id": 366,
+    "site": "Weymouth",
+    "elecMeter": 423160,
+    "gasMeter": 425270
+  },
+  {
+    "id": 367,
+    "site": "Woking",
+    "elecMeter": 433815,
+    "gasMeter": 425307
+  },
+  {
+    "id": 372,
+    "site": "Minehead",
+    "elecMeter": 433666,
+    "gasMeter": 425232
+  },
+  {
+    "id": 402,
+    "site": "Herne Bay",
+    "elecMeter": 423142,
+    "gasMeter": 425411
+  },
+  {
+    "id": 407,
+    "site": "Newport",
+    "elecMeter": 433749,
+    "gasMeter": 425654
+  },
+  {
+    "id": 423,
+    "site": "Blandford",
+    "elecMeter": 423158,
+    "gasMeter": 424939
+  },
+  {
+    "id": 424,
+    "site": "Bognor Regis",
+    "elecMeter": 423154,
+    "gasMeter": ""
+  },
+  {
+    "id": 436,
+    "site": "Wokingham Woosehill",
+    "elecMeter": 433583,
+    "gasMeter": 425271
+  },
+  {
+    "id": 441,
+    "site": "Dover",
+    "elecMeter": 423148,
+    "gasMeter": 425036
+  },
+  {
+    "id": 468,
+    "site": "Abergavenny",
+    "elecMeter": 433620,
+    "gasMeter": ""
+  },
+  {
+    "id": 469,
+    "site": "Cardiff Newport Road",
+    "elecMeter": 433617,
+    "gasMeter": 425447
+  },
+  {
+    "id": 480,
+    "site": "Brighton",
+    "elecMeter": 423143,
+    "gasMeter": ""
+  },
+  {
+    "id": 482,
+    "site": "Link Road",
+    "elecMeter": 433144,
+    "gasMeter": 424966
+  },
+  {
+    "id": 486,
+    "site": "Corringham",
+    "elecMeter": 433108,
+    "gasMeter": 425001
+  },
+  {
+    "id": 490,
+    "site": "Crediton",
+    "elecMeter": 433644,
+    "gasMeter": 424914
+  },
+  {
+    "id": 496,
+    "site": "Exeter",
+    "elecMeter": 433641,
+    "gasMeter": 425064
+  },
+  {
+    "id": 499,
+    "site": "Kingsbridge",
+    "elecMeter": 433645,
+    "gasMeter": 425085
+  },
+  {
+    "id": 501,
+    "site": "Regent Circus",
+    "elecMeter": 433609,
+    "gasMeter": ""
+  },
+  {
+    "id": 520,
+    "site": "Faversham",
+    "elecMeter": 423131,
+    "gasMeter": ""
+  },
+  {
+    "id": 522,
+    "site": "Portsmouth",
+    "elecMeter": 423161,
+    "gasMeter": 425238
+  },
+  {
+    "id": 538,
+    "site": "Nailsworth",
+    "elecMeter": 433322,
+    "gasMeter": 425172
+  },
+  {
+    "id": 539,
+    "site": "New Milton",
+    "elecMeter": 423157,
+    "gasMeter": 425406
+  },
+  {
+    "id": 547,
+    "site": "Leamington Spa",
+    "elecMeter": 433232,
+    "gasMeter": 425159
+  },
+  {
+    "id": 558,
+    "site": "Sittingbourne",
+    "elecMeter": 433574,
+    "gasMeter": 425239
+  },
+  {
+    "id": 559,
+    "site": "Wells",
+    "elecMeter": 433668,
+    "gasMeter": 425330
+  },
+  {
+    "id": 560,
+    "site": "Teignmouth",
+    "elecMeter": 433669,
+    "gasMeter": ""
+  },
+  {
+    "id": 571,
+    "site": "Hoddesdon",
+    "elecMeter": 433167,
+    "gasMeter": 425162
+  },
+  {
+    "id": 572,
+    "site": "Sheppey",
+    "elecMeter": 433575,
+    "gasMeter": 425241
+  },
+  {
+    "id": 575,
+    "site": "Metz Way",
+    "elecMeter": 433341,
+    "gasMeter": 425075
+  },
+  {
+    "id": 586,
+    "site": "Ascot Road",
+    "elecMeter": 433754,
+    "gasMeter": ""
+  },
+  {
+    "id": 630,
+    "site": "Wick",
+    "elecMeter": 433573,
+    "gasMeter": 425161
+  },
+  {
+    "id": 634,
+    "site": "Dorcan Way",
+    "elecMeter": 433605,
+    "gasMeter": 822719
+  },
+  {
+    "id": 639,
+    "site": "Sussex House",
+    "elecMeter": 433577,
+    "gasMeter": ""
+  },
+  {
+    "id": 640,
+    "site": "Verwood",
+    "elecMeter": 423162,
+    "gasMeter": 425327
+  },
+  {
+    "id": 641,
+    "site": "Worthing",
+    "elecMeter": 423138,
+    "gasMeter": 425338
+  },
+  {
+    "id": 642,
+    "site": "Larkfield",
+    "elecMeter": 423140,
+    "gasMeter": ""
+  },
+  {
+    "id": 643,
+    "site": "Margate",
+    "elecMeter": 423132,
+    "gasMeter": 425171
+  },
+  {
+    "id": 652,
+    "site": "Porth",
+    "elecMeter": 433629,
+    "gasMeter": 425174
+  },
+  {
+    "id": 672,
+    "site": "Carterton",
+    "elecMeter": 433604,
+    "gasMeter": 424994
+  },
+  {
+    "id": 678,
+    "site": "Westbury",
+    "elecMeter": 433597,
+    "gasMeter": 425296
+  },
+  {
+    "id": 692,
+    "site": "Llanelli",
+    "elecMeter": 433615,
+    "gasMeter": 425147
+  },
+  {
+    "id": 1,
+    "site": "Chingford",
+    "elecMeter": 433242,
+    "gasMeter": 425089
+  },
+  {
+    "id": 92,
+    "site": "Enfield",
+    "elecMeter": 433127,
+    "gasMeter": 425094
+  },
+  {
+    "id": 113,
+    "site": "Erith",
+    "elecMeter": 423124,
+    "gasMeter": ""
+  },
+  {
+    "id": 205,
+    "site": "Ealing Broadway",
+    "elecMeter": 433607,
+    "gasMeter": ""
+  },
+  {
+    "id": 291,
+    "site": "Aylesbury",
+    "elecMeter": 433128,
+    "gasMeter": 424917
+  },
+  {
+    "id": 296,
+    "site": "Becontree Heath",
+    "elecMeter": 433122,
+    "gasMeter": 425393
+  },
+  {
+    "id": 299,
+    "site": "Hatch End",
+    "elecMeter": 433120,
+    "gasMeter": 425087
+  },
+  {
+    "id": 302,
+    "site": "Acton",
+    "elecMeter": 423149,
+    "gasMeter": ""
+  },
+  {
+    "id": 303,
+    "site": "Camden Town",
+    "elecMeter": 423116,
+    "gasMeter": 425157
+  },
+  {
+    "id": 304,
+    "site": "Holloway Main",
+    "elecMeter": 423117,
+    "gasMeter": 425113
+  },
+  {
+    "id": 304,
+    "site": "London Holloway",
+    "elecMeter": 423117,
+    "gasMeter": 425113
+  },
+  {
+    "id": 305,
+    "site": "Palmers Green",
+    "elecMeter": 433139,
+    "gasMeter": 425409
+  },
+  {
+    "id": 306,
+    "site": "Peckham",
+    "elecMeter": 423123,
+    "gasMeter": 425410
+  },
+  {
+    "id": 307,
+    "site": "Queensbury",
+    "elecMeter": 433133,
+    "gasMeter": ""
+  },
+  {
+    "id": 309,
+    "site": "Stratford",
+    "elecMeter": 423125,
+    "gasMeter": 425131
+  },
+  {
+    "id": 311,
+    "site": "Thamesmead",
+    "elecMeter": 423119,
+    "gasMeter": 425121
+  },
+  {
+    "id": 313,
+    "site": "Wood Green",
+    "elecMeter": 426454,
+    "gasMeter": ""
+  },
+  {
+    "id": 314,
+    "site": "Loughton",
+    "elecMeter": 433243,
+    "gasMeter": 425108
+  },
+  {
+    "id": 316,
+    "site": "Sidcup",
+    "elecMeter": 423127,
+    "gasMeter": 425225
+  },
+  {
+    "id": 318,
+    "site": "Sutton",
+    "elecMeter": 423135,
+    "gasMeter": 425422
+  },
+  {
+    "id": 346,
+    "site": "Bracknell",
+    "elecMeter": 433584,
+    "gasMeter": 424924
+  },
+  {
+    "id": 388,
+    "site": "Borehamwood",
+    "elecMeter": 433158,
+    "gasMeter": ""
+  },
+  {
+    "id": 410,
+    "site": "Stamford Hill",
+    "elecMeter": 423118,
+    "gasMeter": 425156
+  },
+  {
+    "id": 411,
+    "site": "Wimbledon",
+    "elecMeter": 423126,
+    "gasMeter": 425136
+  },
+  {
+    "id": 413,
+    "site": "Petts Wood",
+    "elecMeter": 423144,
+    "gasMeter": 425421
+  },
+  {
+    "id": 447,
+    "site": "Welling",
+    "elecMeter": 423128,
+    "gasMeter": ""
+  },
+  {
+    "id": 479,
+    "site": "Brentford",
+    "elecMeter": 423150,
+    "gasMeter": 426248
+  },
+  {
+    "id": 483,
+    "site": "Camberwell",
+    "elecMeter": 423120,
+    "gasMeter": 425097
+  },
+  {
+    "id": 527,
+    "site": "Mitcham",
+    "elecMeter": 435639,
+    "gasMeter": ""
+  },
+  {
+    "id": 549,
+    "site": "Harrow",
+    "elecMeter": 433161,
+    "gasMeter": ""
+  },
+  {
+    "id": 576,
+    "site": "Croydon",
+    "elecMeter": 433752,
+    "gasMeter": 425061
+  },
+  {
+    "id": 607,
+    "site": "Royston",
+    "elecMeter": 433111,
+    "gasMeter": 425243
+  },
+  {
+    "id": 633,
+    "site": "Southwark",
+    "elecMeter": 423122,
+    "gasMeter": 425096
+  },
+  {
+    "id": 14,
+    "site": "Beverley",
+    "elecMeter": 433718,
+    "gasMeter": ""
+  },
+  {
+    "id": 23,
+    "site": "Mansfield",
+    "elecMeter": 426451,
+    "gasMeter": 425182
+  },
+  {
+    "id": 24,
+    "site": "Bilston",
+    "elecMeter": 433306,
+    "gasMeter": 425317
+  },
+  {
+    "id": 30,
+    "site": "Grantham",
+    "elecMeter": 433208,
+    "gasMeter": 425026
+  },
+  {
+    "id": 31,
+    "site": "Gainsborough",
+    "elecMeter": 433725,
+    "gasMeter": 425025
+  },
+  {
+    "id": 46,
+    "site": "Stamford",
+    "elecMeter": 433209,
+    "gasMeter": 425285
+  },
+  {
+    "id": 48,
+    "site": "Newark",
+    "elecMeter": 433212,
+    "gasMeter": 822717
+  },
+  {
+    "id": 49,
+    "site": "Wellington",
+    "elecMeter": 433326,
+    "gasMeter": 425288
+  },
+  {
+    "id": 50,
+    "site": "Stoke",
+    "elecMeter": 433298,
+    "gasMeter": ""
+  },
+  {
+    "id": 54,
+    "site": "Coalville",
+    "elecMeter": 433189,
+    "gasMeter": 424943
+  },
+  {
+    "id": 62,
+    "site": "Lincoln",
+    "elecMeter": 433211,
+    "gasMeter": 425093
+  },
+  {
+    "id": 63,
+    "site": "Walsall Wallows Lane",
+    "elecMeter": 433302,
+    "gasMeter": 425264
+  },
+  {
+    "id": 67,
+    "site": "Netherfield",
+    "elecMeter": 433199,
+    "gasMeter": ""
+  },
+  {
+    "id": 68,
+    "site": "Shrewsbury",
+    "elecMeter": 433320,
+    "gasMeter": 425193
+  },
+  {
+    "id": 69,
+    "site": "Binley",
+    "elecMeter": 433204,
+    "gasMeter": 425005
+  },
+  {
+    "id": 70,
+    "site": "Scunthorpe",
+    "elecMeter": 433724,
+    "gasMeter": 425191
+  },
+  {
+    "id": 73,
+    "site": "Tamworth",
+    "elecMeter": 433215,
+    "gasMeter": ""
+  },
+  {
+    "id": 75,
+    "site": "Cleethorpes",
+    "elecMeter": 433722,
+    "gasMeter": 424988
+  },
+  {
+    "id": 77,
+    "site": "Winsford",
+    "elecMeter": 433261,
+    "gasMeter": 425282
+  },
+  {
+    "id": 78,
+    "site": "Derby",
+    "elecMeter": 433193,
+    "gasMeter": 425035
+  },
+  {
+    "id": 81,
+    "site": "Ipswich",
+    "elecMeter": 433151,
+    "gasMeter": ""
+  },
+  {
+    "id": 83,
+    "site": "Pinchbeck",
+    "elecMeter": 433223,
+    "gasMeter": ""
+  },
+  {
+    "id": 86,
+    "site": "Dereham",
+    "elecMeter": 433155,
+    "gasMeter": 425053
+  },
+  {
+    "id": 90,
+    "site": "Small Heath",
+    "elecMeter": 433289,
+    "gasMeter": ""
+  },
+  {
+    "id": 99,
+    "site": "Milton Keynes Westcroft",
+    "elecMeter": 433224,
+    "gasMeter": 425187
+  },
+  {
+    "id": 100,
+    "site": "Northampton Victoria Promenade",
+    "elecMeter": 433214,
+    "gasMeter": 425210
+  },
+  {
+    "id": 103,
+    "site": "Kings Lynn",
+    "elecMeter": 433153,
+    "gasMeter": ""
+  },
+  {
+    "id": 106,
+    "site": "Banbury",
+    "elecMeter": 433328,
+    "gasMeter": 424967
+  },
+  {
+    "id": 107,
+    "site": "Anlaby",
+    "elecMeter": 433717,
+    "gasMeter": 425137
+  },
+  {
+    "id": 109,
+    "site": "Hull",
+    "elecMeter": 433717,
+    "gasMeter": ""
+  },
+  {
+    "id": 111,
+    "site": "Kettering",
+    "elecMeter": 433221,
+    "gasMeter": 425133
+  },
+  {
+    "id": 114,
+    "site": "Retford",
+    "elecMeter": 433185,
+    "gasMeter": ""
+  },
+  {
+    "id": 115,
+    "site": "Norwich Riverside",
+    "elecMeter": 433146,
+    "gasMeter": 425219
+  },
+  {
+    "id": 116,
+    "site": "Wellingborough",
+    "elecMeter": 433222,
+    "gasMeter": 425306
+  },
+  {
+    "id": 118,
+    "site": "Cambourne",
+    "elecMeter": 433154,
+    "gasMeter": ""
+  },
+  {
+    "id": 120,
+    "site": "Crewe",
+    "elecMeter": 433272,
+    "gasMeter": 425047
+  },
+  {
+    "id": 121,
+    "site": "Bulwell",
+    "elecMeter": 433200,
+    "gasMeter": 425206
+  },
+  {
+    "id": 125,
+    "site": "Burton",
+    "elecMeter": 433194,
+    "gasMeter": 424961
+  },
+  {
+    "id": 126,
+    "site": "Letchworth",
+    "elecMeter": 433145,
+    "gasMeter": ""
+  },
+  {
+    "id": 127,
+    "site": "Newcastle Under Lyme Milehouse Lane",
+    "elecMeter": 433288,
+    "gasMeter": 425216
+  },
+  {
+    "id": 129,
+    "site": "Rhyl",
+    "elecMeter": 433273,
+    "gasMeter": 425222
+  },
+  {
+    "id": 131,
+    "site": "Chester",
+    "elecMeter": 433259,
+    "gasMeter": 424935
+  },
+  {
+    "id": 133,
+    "site": "Ripon",
+    "elecMeter": 433370,
+    "gasMeter": 425195
+  },
+  {
+    "id": 153,
+    "site": "Wednesbury",
+    "elecMeter": 433334,
+    "gasMeter": ""
+  },
+  {
+    "id": 154,
+    "site": "Leisure Plaza",
+    "elecMeter": 433235,
+    "gasMeter": ""
+  },
+  {
+    "id": 159,
+    "site": "Swadlincote",
+    "elecMeter": 433230,
+    "gasMeter": 425319
+  },
+  {
+    "id": 210,
+    "site": "Ellesmere Port",
+    "elecMeter": 433277,
+    "gasMeter": 425065
+  },
+  {
+    "id": 226,
+    "site": "Malton",
+    "elecMeter": 433344,
+    "gasMeter": 425166
+  },
+  {
+    "id": 231,
+    "site": "Belper",
+    "elecMeter": 433191,
+    "gasMeter": 424925
+  },
+  {
+    "id": 232,
+    "site": "Corby",
+    "elecMeter": 433201,
+    "gasMeter": 425023
+  },
+  {
+    "id": 233,
+    "site": "Hinckley",
+    "elecMeter": 433190,
+    "gasMeter": 425110
+  },
+  {
+    "id": 234,
+    "site": "Leicester",
+    "elecMeter": 433188,
+    "gasMeter": 425122
+  },
+  {
+    "id": 235,
+    "site": "Loughborough",
+    "elecMeter": 433239,
+    "gasMeter": ""
+  },
+  {
+    "id": 236,
+    "site": "Melton Mowbray",
+    "elecMeter": 433210,
+    "gasMeter": 425412
+  },
+  {
+    "id": 237,
+    "site": "Northampton Kettering Road",
+    "elecMeter": 433214,
+    "gasMeter": 425201
+  },
+  {
+    "id": 238,
+    "site": "Gamston",
+    "elecMeter": 433196,
+    "gasMeter": 425248
+  },
+  {
+    "id": 239,
+    "site": "Eastwood",
+    "elecMeter": 433197,
+    "gasMeter": 425189
+  },
+  {
+    "id": 240,
+    "site": "Aberystwyth",
+    "elecMeter": 433267,
+    "gasMeter": ""
+  },
+  {
+    "id": 241,
+    "site": "Aldridge",
+    "elecMeter": 433305,
+    "gasMeter": 424999
+  },
+  {
+    "id": 242,
+    "site": "Bromsgrove",
+    "elecMeter": 426452,
+    "gasMeter": 424949
+  },
+  {
+    "id": 243,
+    "site": "Burntwood",
+    "elecMeter": 433312,
+    "gasMeter": 424968
+  },
+  {
+    "id": 244,
+    "site": "Cannock",
+    "elecMeter": 433313,
+    "gasMeter": 424933
+  },
+  {
+    "id": 245,
+    "site": "Castle Bromwich",
+    "elecMeter": 433309,
+    "gasMeter": 424936
+  },
+  {
+    "id": 246,
+    "site": "Coventry Holyhead Road",
+    "elecMeter": 433204,
+    "gasMeter": 425019
+  },
+  {
+    "id": 247,
+    "site": "Evesham",
+    "elecMeter": 433299,
+    "gasMeter": 425014
+  },
+  {
+    "id": 248,
+    "site": "Hereford",
+    "elecMeter": 433324,
+    "gasMeter": 425106
+  },
+  {
+    "id": 250,
+    "site": "Kingswinford",
+    "elecMeter": 433294,
+    "gasMeter": 425105
+  },
+  {
+    "id": 251,
+    "site": "Leek",
+    "elecMeter": 433774,
+    "gasMeter": ""
+  },
+  {
+    "id": 252,
+    "site": "Leominster",
+    "elecMeter": 433318,
+    "gasMeter": 425163
+  },
+  {
+    "id": 253,
+    "site": "Lichfield",
+    "elecMeter": 433315,
+    "gasMeter": 425107
+  },
+  {
+    "id": 254,
+    "site": "Malvern",
+    "elecMeter": 433304,
+    "gasMeter": 425197
+  },
+  {
+    "id": 255,
+    "site": "Nantwich",
+    "elecMeter": 433260,
+    "gasMeter": 425184
+  },
+  {
+    "id": 257,
+    "site": "Redditch",
+    "elecMeter": 433292,
+    "gasMeter": ""
+  },
+  {
+    "id": 259,
+    "site": "Rubery",
+    "elecMeter": 433296,
+    "gasMeter": ""
+  },
+  {
+    "id": 260,
+    "site": "Rugeley",
+    "elecMeter": 433301,
+    "gasMeter": 425424
+  },
+  {
+    "id": 261,
+    "site": "Solihull",
+    "elecMeter": 433319,
+    "gasMeter": 425278
+  },
+  {
+    "id": 262,
+    "site": "Stone",
+    "elecMeter": 433286,
+    "gasMeter": 425303
+  },
+  {
+    "id": 263,
+    "site": "Stratford Upon Avon",
+    "elecMeter": 433303,
+    "gasMeter": 425277
+  },
+  {
+    "id": 264,
+    "site": "Walsall Lichfield Street",
+    "elecMeter": 433325,
+    "gasMeter": ""
+  },
+  {
+    "id": 265,
+    "site": "Bangor",
+    "elecMeter": 433263,
+    "gasMeter": 424928
+  },
+  {
+    "id": 267,
+    "site": "Caernarfon",
+    "elecMeter": 433264,
+    "gasMeter": 424957
+  },
+  {
+    "id": 271,
+    "site": "Colwyn Bay",
+    "elecMeter": 433262,
+    "gasMeter": ""
+  },
+  {
+    "id": 272,
+    "site": "Denbigh",
+    "elecMeter": 433269,
+    "gasMeter": 425043
+  },
+  {
+    "id": 275,
+    "site": "Beccles",
+    "elecMeter": 433134,
+    "gasMeter": 424920
+  },
+  {
+    "id": 277,
+    "site": "Little Clacton",
+    "elecMeter": 433126,
+    "gasMeter": 425118
+  },
+  {
+    "id": 278,
+    "site": "Clacton",
+    "elecMeter": 433156,
+    "gasMeter": 424929
+  },
+  {
+    "id": 279,
+    "site": "Cromer",
+    "elecMeter": 433125,
+    "gasMeter": 425008
+  },
+  {
+    "id": 280,
+    "site": "Diss",
+    "elecMeter": 433157,
+    "gasMeter": 425021
+  },
+  {
+    "id": 282,
+    "site": "Fakenham",
+    "elecMeter": 433129,
+    "gasMeter": ""
+  },
+  {
+    "id": 285,
+    "site": "Harwich",
+    "elecMeter": 433138,
+    "gasMeter": 425119
+  },
+  {
+    "id": 286,
+    "site": "Lowestoft",
+    "elecMeter": 433162,
+    "gasMeter": 425115
+  },
+  {
+    "id": 288,
+    "site": "Peterborough",
+    "elecMeter": 433141,
+    "gasMeter": ""
+  },
+  {
+    "id": 289,
+    "site": "Skegness",
+    "elecMeter": 433207,
+    "gasMeter": ""
+  },
+  {
+    "id": 300,
+    "site": "High Wycombe",
+    "elecMeter": 433595,
+    "gasMeter": 425126
+  },
+  {
+    "id": 317,
+    "site": "St Albans",
+    "elecMeter": 433124,
+    "gasMeter": 425308
+  },
+  {
+    "id": 319,
+    "site": "Welwyn Garden City",
+    "elecMeter": 424667,
+    "gasMeter": 425256
+  },
+  {
+    "id": 350,
+    "site": "Goole",
+    "elecMeter": 433743,
+    "gasMeter": 425417
+  },
+  {
+    "id": 368,
+    "site": "Holbrook",
+    "elecMeter": 433205,
+    "gasMeter": 425068
+  },
+  {
+    "id": 385,
+    "site": "Norwich Catton",
+    "elecMeter": 433115,
+    "gasMeter": 425170
+  },
+  {
+    "id": 387,
+    "site": "Lutterworth",
+    "elecMeter": 433220,
+    "gasMeter": 425127
+  },
+  {
+    "id": 392,
+    "site": "Congleton",
+    "elecMeter": 433323,
+    "gasMeter": 425017
+  },
+  {
+    "id": 393,
+    "site": "Droitwich",
+    "elecMeter": 426453,
+    "gasMeter": 425004
+  },
+  {
+    "id": 395,
+    "site": "Market Drayton",
+    "elecMeter": 433317,
+    "gasMeter": 425245
+  },
+  {
+    "id": 397,
+    "site": "Newtown",
+    "elecMeter": 433266,
+    "gasMeter": ""
+  },
+  {
+    "id": 399,
+    "site": "Shirley",
+    "elecMeter": 433293,
+    "gasMeter": 425268
+  },
+  {
+    "id": 401,
+    "site": "Pendeford",
+    "elecMeter": 433330,
+    "gasMeter": 425269
+  },
+  {
+    "id": 417,
+    "site": "Wrexham",
+    "elecMeter": 433283,
+    "gasMeter": 425337
+  },
+  {
+    "id": 425,
+    "site": "Holyhead Penrhos",
+    "elecMeter": 433278,
+    "gasMeter": ""
+  },
+  {
+    "id": 437,
+    "site": "Castleford",
+    "elecMeter": 433708,
+    "gasMeter": ""
+  },
+  {
+    "id": 439,
+    "site": "Gorleston",
+    "elecMeter": 433112,
+    "gasMeter": ""
+  },
+  {
+    "id": 440,
+    "site": "Connahs Quay",
+    "elecMeter": 433279,
+    "gasMeter": 425029
+  },
+  {
+    "id": 442,
+    "site": "Willenhall",
+    "elecMeter": 433337,
+    "gasMeter": 425326
+  },
+  {
+    "id": 448,
+    "site": "Clifton",
+    "elecMeter": 433219,
+    "gasMeter": ""
+  },
+  {
+    "id": 471,
+    "site": "Hadleigh",
+    "elecMeter": 433163,
+    "gasMeter": 425079
+  },
+  {
+    "id": 472,
+    "site": "Mansfield Woodhouse",
+    "elecMeter": 433198,
+    "gasMeter": 425176
+  },
+  {
+    "id": 484,
+    "site": "Cheadle",
+    "elecMeter": 433291,
+    "gasMeter": 424970
+  },
+  {
+    "id": 491,
+    "site": "Downham Market",
+    "elecMeter": 426455,
+    "gasMeter": ""
+  },
+  {
+    "id": 504,
+    "site": "Tamworth Upper Gungate",
+    "elecMeter": 433216,
+    "gasMeter": 425294
+  },
+  {
+    "id": 511,
+    "site": "Wisbech",
+    "elecMeter": 433159,
+    "gasMeter": 425329
+  },
+  {
+    "id": 512,
+    "site": "Kirkby in Ashfield",
+    "elecMeter": 433231,
+    "gasMeter": 425418
+  },
+  {
+    "id": 518,
+    "site": "Houghton Regis",
+    "elecMeter": 433164,
+    "gasMeter": ""
+  },
+  {
+    "id": 540,
+    "site": "Oswestry",
+    "elecMeter": 433265,
+    "gasMeter": ""
+  },
+  {
+    "id": 545,
+    "site": "Edgbaston",
+    "elecMeter": 424674,
+    "gasMeter": 425385
+  },
+  {
+    "id": 551,
+    "site": "Middlewich",
+    "elecMeter": 433285,
+    "gasMeter": ""
+  },
+  {
+    "id": 552,
+    "site": "Coleshill",
+    "elecMeter": 433339,
+    "gasMeter": 424995
+  },
+  {
+    "id": 556,
+    "site": "North Quay",
+    "elecMeter": 433131,
+    "gasMeter": 425158
+  },
+  {
+    "id": 561,
+    "site": "Telford",
+    "elecMeter": 433750,
+    "gasMeter": 425328
+  },
+  {
+    "id": 563,
+    "site": "Doncaster Balby",
+    "elecMeter": 433747,
+    "gasMeter": ""
+  },
+  {
+    "id": 583,
+    "site": "Brough",
+    "elecMeter": 433729,
+    "gasMeter": 424974
+  },
+  {
+    "id": 598,
+    "site": "Welshpool",
+    "elecMeter": 433271,
+    "gasMeter": ""
+  },
+  {
+    "id": 608,
+    "site": "Shefford",
+    "elecMeter": 433110,
+    "gasMeter": 425215
+  },
+  {
+    "id": 628,
+    "site": "Bedford",
+    "elecMeter": 433166,
+    "gasMeter": ""
+  },
+  {
+    "id": 650,
+    "site": "Louth",
+    "elecMeter": 433723,
+    "gasMeter": 425081
+  },
+  {
+    "id": 655,
+    "site": "Wymondham",
+    "elecMeter": 433172,
+    "gasMeter": ""
+  },
+  {
+    "id": 677,
+    "site": "Saltney",
+    "elecMeter": 433281,
+    "gasMeter": 425233
+  },
+  {
+    "id": 691,
+    "site": "Kidderminster",
+    "elecMeter": 433335,
+    "gasMeter": 425150
+  },
+  {
+    "id": 2,
+    "site": "Mayo Avenue",
+    "elecMeter": 433682,
+    "gasMeter": 424932
+  },
+  {
+    "id": 3,
+    "site": "Bradford Enterprise 5",
+    "elecMeter": 423163,
+    "gasMeter": ""
+  },
+  {
+    "id": 4,
+    "site": "Bradford Victoria",
+    "elecMeter": 433676,
+    "gasMeter": 424976
+  },
+  {
+    "id": 5,
+    "site": "Keighley",
+    "elecMeter": 433728,
+    "gasMeter": 425104
+  },
+  {
+    "id": 7,
+    "site": "Yeadon",
+    "elecMeter": 433690,
+    "gasMeter": 425099
+  },
+  {
+    "id": 8,
+    "site": "Thornbury",
+    "elecMeter": 433681,
+    "gasMeter": 424980
+  },
+  {
+    "id": 10,
+    "site": "Merrion",
+    "elecMeter": 433702,
+    "gasMeter": 425109
+  },
+  {
+    "id": 11,
+    "site": "Morley",
+    "elecMeter": 433707,
+    "gasMeter": 425100
+  },
+  {
+    "id": 15,
+    "site": "Hunslet",
+    "elecMeter": 433704,
+    "gasMeter": 425114
+  },
+  {
+    "id": 17,
+    "site": "Horsforth",
+    "elecMeter": 433741,
+    "gasMeter": 425152
+  },
+  {
+    "id": 19,
+    "site": "Widnes",
+    "elecMeter": 433258,
+    "gasMeter": 425302
+  },
+  {
+    "id": 21,
+    "site": "St Helens",
+    "elecMeter": 433274,
+    "gasMeter": ""
+  },
+  {
+    "id": 22,
+    "site": "Failsworth",
+    "elecMeter": 433439,
+    "gasMeter": 425052
+  },
+  {
+    "id": 25,
+    "site": "Ince",
+    "elecMeter": 435259,
+    "gasMeter": ""
+  },
+  {
+    "id": 26,
+    "site": "Darlington North Road",
+    "elecMeter": 433387,
+    "gasMeter": 425022
+  },
+  {
+    "id": 27,
+    "site": "Staveley",
+    "elecMeter": 433195,
+    "gasMeter": ""
+  },
+  {
+    "id": 28,
+    "site": "Eccles",
+    "elecMeter": 433434,
+    "gasMeter": 425048
+  },
+  {
+    "id": 29,
+    "site": "Catcliffe",
+    "elecMeter": 433733,
+    "gasMeter": 425228
+  },
+  {
+    "id": 32,
+    "site": "Heywood",
+    "elecMeter": 433421,
+    "gasMeter": 425124
+  },
+  {
+    "id": 33,
+    "site": "Dewsbury Road",
+    "elecMeter": 433713,
+    "gasMeter": 425263
+  },
+  {
+    "id": 34,
+    "site": "Wakefield Ridings",
+    "elecMeter": 433712,
+    "gasMeter": ""
+  },
+  {
+    "id": 35,
+    "site": "Killingworth",
+    "elecMeter": 433343,
+    "gasMeter": ""
+  },
+  {
+    "id": 36,
+    "site": "Guiseley",
+    "elecMeter": 433688,
+    "gasMeter": 425112
+  },
+  {
+    "id": 37,
+    "site": "Dukinfield",
+    "elecMeter": 433403,
+    "gasMeter": 425028
+  },
+  {
+    "id": 38,
+    "site": "Blackburn",
+    "elecMeter": 433407,
+    "gasMeter": 424950
+  },
+  {
+    "id": 39,
+    "site": "Rotherham Bramley",
+    "elecMeter": 433696,
+    "gasMeter": 425450
+  },
+  {
+    "id": 40,
+    "site": "Bishop Auckland",
+    "elecMeter": 433386,
+    "gasMeter": 425384
+  },
+  {
+    "id": 41,
+    "site": "Riversway",
+    "elecMeter": 433404,
+    "gasMeter": 425208
+  },
+  {
+    "id": 42,
+    "site": "Heckmondwike",
+    "elecMeter": 433692,
+    "gasMeter": 425103
+  },
+  {
+    "id": 44,
+    "site": "Carlisle",
+    "elecMeter": 436007,
+    "gasMeter": ""
+  },
+  {
+    "id": 45,
+    "site": "Bolton",
+    "elecMeter": 433400,
+    "gasMeter": 424952
+  },
+  {
+    "id": 47,
+    "site": "Seaburn",
+    "elecMeter": 433382,
+    "gasMeter": ""
+  },
+  {
+    "id": 51,
+    "site": "Pontefract",
+    "elecMeter": 433709,
+    "gasMeter": 425192
+  },
+  {
+    "id": 52,
+    "site": "Hillsborough",
+    "elecMeter": 433697,
+    "gasMeter": 425175
+  },
+  {
+    "id": 53,
+    "site": "Rochdale",
+    "elecMeter": 433402,
+    "gasMeter": ""
+  },
+  {
+    "id": 55,
+    "site": "Kendal",
+    "elecMeter": 433408,
+    "gasMeter": 425111
+  },
+  {
+    "id": 56,
+    "site": "Skipton",
+    "elecMeter": 433686,
+    "gasMeter": ""
+  },
+  {
+    "id": 57,
+    "site": "Oldham",
+    "elecMeter": 433401,
+    "gasMeter": 425194
+  },
+  {
+    "id": 58,
+    "site": "Stockton",
+    "elecMeter": 433383,
+    "gasMeter": 425262
+  },
+  {
+    "id": 59,
+    "site": "Bolton Atlas Mills",
+    "elecMeter": 433416,
+    "gasMeter": ""
+  },
+  {
+    "id": 60,
+    "site": "Chorley",
+    "elecMeter": 433406,
+    "gasMeter": 424944
+  },
+  {
+    "id": 61,
+    "site": "Parkgate",
+    "elecMeter": 435260,
+    "gasMeter": 425188
+  },
+  {
+    "id": 64,
+    "site": "Tynemouth",
+    "elecMeter": 433385,
+    "gasMeter": 425275
+  },
+  {
+    "id": 65,
+    "site": "Starbeck",
+    "elecMeter": 433378,
+    "gasMeter": 425102
+  },
+  {
+    "id": 66,
+    "site": "Blackpool",
+    "elecMeter": 433405,
+    "gasMeter": 424982
+  },
+  {
+    "id": 71,
+    "site": "Warrington",
+    "elecMeter": 433257,
+    "gasMeter": 425289
+  },
+  {
+    "id": 72,
+    "site": "Ecclesfield",
+    "elecMeter": 433694,
+    "gasMeter": 425209
+  },
+  {
+    "id": 74,
+    "site": "Morecambe",
+    "elecMeter": 433418,
+    "gasMeter": ""
+  },
+  {
+    "id": 76,
+    "site": "Scarborough",
+    "elecMeter": 433379,
+    "gasMeter": 425178
+  },
+  {
+    "id": 79,
+    "site": "Huddersfield",
+    "elecMeter": 433691,
+    "gasMeter": 425164
+  },
+  {
+    "id": 80,
+    "site": "Redcar",
+    "elecMeter": 433346,
+    "gasMeter": 425224
+  },
+  {
+    "id": 88,
+    "site": "Jarrow",
+    "elecMeter": 433345,
+    "gasMeter": 425135
+  },
+  {
+    "id": 89,
+    "site": "Kirkstall",
+    "elecMeter": 433678,
+    "gasMeter": 425132
+  },
+  {
+    "id": 91,
+    "site": "Byker",
+    "elecMeter": 433347,
+    "gasMeter": 425227
+  },
+  {
+    "id": 93,
+    "site": "Denton",
+    "elecMeter": 468540,
+    "gasMeter": 425056
+  },
+  {
+    "id": 94,
+    "site": "Barrow",
+    "elecMeter": 433438,
+    "gasMeter": 424984
+  },
+  {
+    "id": 97,
+    "site": "Belle Vale",
+    "elecMeter": 433275,
+    "gasMeter": 425138
+  },
+  {
+    "id": 98,
+    "site": "Barnsley",
+    "elecMeter": 433734,
+    "gasMeter": 424981
+  },
+  {
+    "id": 101,
+    "site": "Halfway",
+    "elecMeter": 433218,
+    "gasMeter": 425213
+  },
+  {
+    "id": 102,
+    "site": "Doxford",
+    "elecMeter": 433389,
+    "gasMeter": 425297
+  },
+  {
+    "id": 104,
+    "site": "Nelson",
+    "elecMeter": 433431,
+    "gasMeter": 425217
+  },
+  {
+    "id": 105,
+    "site": "Boundary Road",
+    "elecMeter": 433274,
+    "gasMeter": ""
+  },
+  {
+    "id": 108,
+    "site": "Boroughbridge",
+    "elecMeter": 433391,
+    "gasMeter": ""
+  },
+  {
+    "id": 110,
+    "site": "Wetherby",
+    "elecMeter": 433737,
+    "gasMeter": 425310
+  },
+  {
+    "id": 112,
+    "site": "Brampton",
+    "elecMeter": 433675,
+    "gasMeter": 424981
+  },
+  {
+    "id": 117,
+    "site": "Kilmarnock",
+    "elecMeter": 433542,
+    "gasMeter": 425141
+  },
+  {
+    "id": 119,
+    "site": "Hyde",
+    "elecMeter": 433437,
+    "gasMeter": ""
+  },
+  {
+    "id": 122,
+    "site": "Cheadle Heath",
+    "elecMeter": 433420,
+    "gasMeter": ""
+  },
+  {
+    "id": 123,
+    "site": "Doncaster",
+    "elecMeter": 433699,
+    "gasMeter": ""
+  },
+  {
+    "id": 124,
+    "site": "Morton Park",
+    "elecMeter": 433381,
+    "gasMeter": ""
+  },
+  {
+    "id": 128,
+    "site": "Middlesborough",
+    "elecMeter": 433393,
+    "gasMeter": 425211
+  },
+  {
+    "id": 132,
+    "site": "Hartlepool",
+    "elecMeter": 433349,
+    "gasMeter": 425140
+  },
+  {
+    "id": 134,
+    "site": "Southport",
+    "elecMeter": 433255,
+    "gasMeter": 425272
+  },
+  {
+    "id": 135,
+    "site": "Falkirk",
+    "elecMeter": 433543,
+    "gasMeter": 425054
+  },
+  {
+    "id": 136,
+    "site": "Cardonald",
+    "elecMeter": 433547,
+    "gasMeter": 425062
+  },
+  {
+    "id": 137,
+    "site": "Leeds Swinnow Road",
+    "elecMeter": 433706,
+    "gasMeter": 425153
+  },
+  {
+    "id": 138,
+    "site": "Speke",
+    "elecMeter": 433276,
+    "gasMeter": 425320
+  },
+  {
+    "id": 139,
+    "site": "Paisley Anchor Mills",
+    "elecMeter": 433548,
+    "gasMeter": 425229
+  },
+  {
+    "id": 144,
+    "site": "Knottingley",
+    "elecMeter": 433738,
+    "gasMeter": 425143
+  },
+  {
+    "id": 145,
+    "site": "Dundee",
+    "elecMeter": 433461,
+    "gasMeter": 425063
+  },
+  {
+    "id": 146,
+    "site": "West Denton",
+    "elecMeter": 433355,
+    "gasMeter": ""
+  },
+  {
+    "id": 147,
+    "site": "Granton",
+    "elecMeter": 433555,
+    "gasMeter": 425027
+  },
+  {
+    "id": 148,
+    "site": "Hamilton",
+    "elecMeter": 433545,
+    "gasMeter": 425142
+  },
+  {
+    "id": 149,
+    "site": "Whitefield",
+    "elecMeter": 433444,
+    "gasMeter": ""
+  },
+  {
+    "id": 150,
+    "site": "Livingston Almondvale Road",
+    "elecMeter": 433544,
+    "gasMeter": ""
+  },
+  {
+    "id": 151,
+    "site": "Leyland",
+    "elecMeter": 433443,
+    "gasMeter": 425145
+  },
+  {
+    "id": 152,
+    "site": "Auchinlea",
+    "elecMeter": 433546,
+    "gasMeter": 424987
+  },
+  {
+    "id": 155,
+    "site": "York",
+    "elecMeter": 433352,
+    "gasMeter": 425336
+  },
+  {
+    "id": 156,
+    "site": "Johnstone",
+    "elecMeter": 433550,
+    "gasMeter": 425146
+  },
+  {
+    "id": 160,
+    "site": "Aberdeen",
+    "elecMeter": 433473,
+    "gasMeter": 424947
+  },
+  {
+    "id": 161,
+    "site": "Airdrie",
+    "elecMeter": 433498,
+    "gasMeter": 424991
+  },
+  {
+    "id": 162,
+    "site": "Alloa",
+    "elecMeter": 433535,
+    "gasMeter": ""
+  },
+  {
+    "id": 163,
+    "site": "Alness",
+    "elecMeter": 433460,
+    "gasMeter": 424977
+  },
+  {
+    "id": 164,
+    "site": "Arbroath",
+    "elecMeter": 433480,
+    "gasMeter": 424975
+  },
+  {
+    "id": 165,
+    "site": "Ayr",
+    "elecMeter": 433497,
+    "gasMeter": 424962
+  },
+  {
+    "id": 167,
+    "site": "Bellshill",
+    "elecMeter": 433507,
+    "gasMeter": 424965
+  },
+  {
+    "id": 168,
+    "site": "Berwick",
+    "elecMeter": 433512,
+    "gasMeter": ""
+  },
+  {
+    "id": 169,
+    "site": "Dumbarton",
+    "elecMeter": 433519,
+    "gasMeter": 425037
+  },
+  {
+    "id": 170,
+    "site": "Dumfries",
+    "elecMeter": 433501,
+    "gasMeter": 425031
+  },
+  {
+    "id": 171,
+    "site": "Lindsayfield",
+    "elecMeter": 433504,
+    "gasMeter": 425041
+  },
+  {
+    "id": 172,
+    "site": "Stewartfield",
+    "elecMeter": 433503,
+    "gasMeter": 425006
+  },
+  {
+    "id": 173,
+    "site": "Ferry Road",
+    "elecMeter": 433516,
+    "gasMeter": ""
+  },
+  {
+    "id": 174,
+    "site": "Hunters Tryst",
+    "elecMeter": 433513,
+    "gasMeter": 425010
+  },
+  {
+    "id": 175,
+    "site": "Moredun",
+    "elecMeter": 433538,
+    "gasMeter": 425045
+  },
+  {
+    "id": 176,
+    "site": "Portobello Road",
+    "elecMeter": 433515,
+    "gasMeter": 425399
+  },
+  {
+    "id": 177,
+    "site": "South Gyle",
+    "elecMeter": 433514,
+    "gasMeter": 425003
+  },
+  {
+    "id": 178,
+    "site": "Fort William",
+    "elecMeter": 433467,
+    "gasMeter": ""
+  },
+  {
+    "id": 179,
+    "site": "Anniesland",
+    "elecMeter": 433521,
+    "gasMeter": ""
+  },
+  {
+    "id": 180,
+    "site": "Baillieston",
+    "elecMeter": 433500,
+    "gasMeter": ""
+  },
+  {
+    "id": 181,
+    "site": "Bishopbriggs",
+    "elecMeter": 433499,
+    "gasMeter": ""
+  },
+  {
+    "id": 182,
+    "site": "Cambuslang",
+    "elecMeter": 433529,
+    "gasMeter": 425042
+  },
+  {
+    "id": 183,
+    "site": "Newlands",
+    "elecMeter": 433523,
+    "gasMeter": 425080
+  },
+  {
+    "id": 184,
+    "site": "Glenrothes",
+    "elecMeter": 433518,
+    "gasMeter": 425051
+  },
+  {
+    "id": 185,
+    "site": "Greenock",
+    "elecMeter": 433537,
+    "gasMeter": 425044
+  },
+  {
+    "id": 187,
+    "site": "Hawick",
+    "elecMeter": 433511,
+    "gasMeter": 425086
+  },
+  {
+    "id": 188,
+    "site": "Inverness",
+    "elecMeter": 433464,
+    "gasMeter": 425130
+  },
+  {
+    "id": 189,
+    "site": "Inverurie",
+    "elecMeter": 433478,
+    "gasMeter": ""
+  },
+  {
+    "id": 190,
+    "site": "Largs",
+    "elecMeter": 433531,
+    "gasMeter": 425120
+  },
+  {
+    "id": 192,
+    "site": "Paisley",
+    "elecMeter": 433525,
+    "gasMeter": 425180
+  },
+  {
+    "id": 193,
+    "site": "Perth",
+    "elecMeter": 433481,
+    "gasMeter": 425246
+  },
+  {
+    "id": 194,
+    "site": "Peterhead",
+    "elecMeter": 433475,
+    "gasMeter": ""
+  },
+  {
+    "id": 195,
+    "site": "St Andrews",
+    "elecMeter": 433517,
+    "gasMeter": ""
+  },
+  {
+    "id": 196,
+    "site": "Stevenston",
+    "elecMeter": 433505,
+    "gasMeter": ""
+  },
+  {
+    "id": 197,
+    "site": "Stirling",
+    "elecMeter": 433509,
+    "gasMeter": 425287
+  },
+  {
+    "id": 198,
+    "site": "Stranraer",
+    "elecMeter": 433502,
+    "gasMeter": 425304
+  },
+  {
+    "id": 199,
+    "site": "Troon",
+    "elecMeter": 433540,
+    "gasMeter": 425312
+  },
+  {
+    "id": 200,
+    "site": "Wishaw",
+    "elecMeter": 433506,
+    "gasMeter": ""
+  },
+  {
+    "id": 201,
+    "site": "Alnwick",
+    "elecMeter": 433374,
+    "gasMeter": 424948
+  },
+  {
+    "id": 202,
+    "site": "Barnard Castle",
+    "elecMeter": 433348,
+    "gasMeter": 424983
+  },
+  {
+    "id": 203,
+    "site": "Blyth",
+    "elecMeter": 433356,
+    "gasMeter": 424996
+  },
+  {
+    "id": 204,
+    "site": "Consett",
+    "elecMeter": 433357,
+    "gasMeter": 425076
+  },
+  {
+    "id": 206,
+    "site": "Cowgate",
+    "elecMeter": 433375,
+    "gasMeter": 425179
+  },
+  {
+    "id": 207,
+    "site": "Whitley Bay",
+    "elecMeter": 433371,
+    "gasMeter": 425260
+  },
+  {
+    "id": 208,
+    "site": "Buxton",
+    "elecMeter": 424664,
+    "gasMeter": ""
+  },
+  {
+    "id": 209,
+    "site": "Chapel en le Firth",
+    "elecMeter": 433429,
+    "gasMeter": 424973
+  },
+  {
+    "id": 212,
+    "site": "Harwood",
+    "elecMeter": 433417,
+    "gasMeter": 425091
+  },
+  {
+    "id": 213,
+    "site": "Ormskirk",
+    "elecMeter": 433419,
+    "gasMeter": 425204
+  },
+  {
+    "id": 214,
+    "site": "Penrith",
+    "elecMeter": 433415,
+    "gasMeter": 425234
+  },
+  {
+    "id": 215,
+    "site": "Bredbury",
+    "elecMeter": 426450,
+    "gasMeter": ""
+  },
+  {
+    "id": 216,
+    "site": "Reddish",
+    "elecMeter": 433436,
+    "gasMeter": 425309
+  },
+  {
+    "id": 217,
+    "site": "Swinton",
+    "elecMeter": 433411,
+    "gasMeter": 425250
+  },
+  {
+    "id": 218,
+    "site": "Thornton Cleveleys",
+    "elecMeter": 433413,
+    "gasMeter": 425419
+  },
+  {
+    "id": 219,
+    "site": "Todmorden",
+    "elecMeter": 433674,
+    "gasMeter": 425300
+  },
+  {
+    "id": 220,
+    "site": "West Kirby",
+    "elecMeter": 424662,
+    "gasMeter": ""
+  },
+  {
+    "id": 221,
+    "site": "Whitehaven",
+    "elecMeter": 433424,
+    "gasMeter": 425428
+  },
+  {
+    "id": 223,
+    "site": "Workington",
+    "elecMeter": 433414,
+    "gasMeter": 425313
+  },
+  {
+    "id": 224,
+    "site": "Bridlington",
+    "elecMeter": 433720,
+    "gasMeter": ""
+  },
+  {
+    "id": 225,
+    "site": "Chesterfield",
+    "elecMeter": 433192,
+    "gasMeter": 424946
+  },
+  {
+    "id": 227,
+    "site": "Meltham",
+    "elecMeter": 433677,
+    "gasMeter": 425220
+  },
+  {
+    "id": 228,
+    "site": "Selby",
+    "elecMeter": 433721,
+    "gasMeter": ""
+  },
+  {
+    "id": 229,
+    "site": "Sheffield Meadowhead",
+    "elecMeter": 433695,
+    "gasMeter": 425451
+  },
+  {
+    "id": 230,
+    "site": "Acomb",
+    "elecMeter": 433372,
+    "gasMeter": 425334
+  },
+  {
+    "id": 256,
+    "site": "Newcastle Under Lyme Goose St",
+    "elecMeter": 433321,
+    "gasMeter": 425207
+  },
+  {
+    "id": 374,
+    "site": "Crossmyloof",
+    "elecMeter": 433522,
+    "gasMeter": 425009
+  },
+  {
+    "id": 375,
+    "site": "Partick",
+    "elecMeter": 433520,
+    "gasMeter": 425070
+  },
+  {
+    "id": 377,
+    "site": "Manchester Picadilly Gardens",
+    "elecMeter": 433455,
+    "gasMeter": ""
+  },
+  {
+    "id": 379,
+    "site": "Livingston Carmondean Centre",
+    "elecMeter": 433510,
+    "gasMeter": 425408
+  },
+  {
+    "id": 383,
+    "site": "Chorlton Cum Hardy",
+    "elecMeter": 433410,
+    "gasMeter": 424942
+  },
+  {
+    "id": 384,
+    "site": "Kirkham",
+    "elecMeter": 435068,
+    "gasMeter": ""
+  },
+  {
+    "id": 389,
+    "site": "South Shields",
+    "elecMeter": 433384,
+    "gasMeter": 425249
+  },
+  {
+    "id": 391,
+    "site": "Openshaw",
+    "elecMeter": 433447,
+    "gasMeter": 425235
+  },
+  {
+    "id": 394,
+    "site": "Bamber Bridge",
+    "elecMeter": 433409,
+    "gasMeter": 424915
+  },
+  {
+    "id": 398,
+    "site": "Great Harwood",
+    "elecMeter": 433433,
+    "gasMeter": ""
+  },
+  {
+    "id": 409,
+    "site": "Bathgate",
+    "elecMeter": 433557,
+    "gasMeter": ""
+  },
+  {
+    "id": 419,
+    "site": "Rothwell",
+    "elecMeter": 423164,
+    "gasMeter": 425151
+  },
+  {
+    "id": 430,
+    "site": "Armthorpe",
+    "elecMeter": 433698,
+    "gasMeter": 470679
+  },
+  {
+    "id": 438,
+    "site": "Erskine",
+    "elecMeter": 433552,
+    "gasMeter": ""
+  },
+  {
+    "id": 450,
+    "site": "Bedlington",
+    "elecMeter": 433368,
+    "gasMeter": ""
+  },
+  {
+    "id": 460,
+    "site": "Broomhill",
+    "elecMeter": 433731,
+    "gasMeter": ""
+  },
+  {
+    "id": 461,
+    "site": "Manchester Grafton Street",
+    "elecMeter": 433448,
+    "gasMeter": ""
+  },
+  {
+    "id": 474,
+    "site": "Chester Le Street",
+    "elecMeter": 433369,
+    "gasMeter": 424941
+  },
+  {
+    "id": 475,
+    "site": "Halifax",
+    "elecMeter": 433742,
+    "gasMeter": ""
+  },
+  {
+    "id": 487,
+    "site": "Cowdenbeath",
+    "elecMeter": 434038,
+    "gasMeter": ""
+  },
+  {
+    "id": 492,
+    "site": "Dunoon",
+    "elecMeter": 433463,
+    "gasMeter": 425390
+  },
+  {
+    "id": 493,
+    "site": "Bolton Bury Road",
+    "elecMeter": 433412,
+    "gasMeter": 424938
+  },
+  {
+    "id": 497,
+    "site": "Frodsham",
+    "elecMeter": 433256,
+    "gasMeter": 425002
+  },
+  {
+    "id": 500,
+    "site": "Lanark",
+    "elecMeter": 433508,
+    "gasMeter": 425082
+  },
+  {
+    "id": 508,
+    "site": "Leigh",
+    "elecMeter": 433449,
+    "gasMeter": 470680
+  },
+  {
+    "id": 509,
+    "site": "New Brighton",
+    "elecMeter": 433282,
+    "gasMeter": ""
+  },
+  {
+    "id": 516,
+    "site": "Barrack Street",
+    "elecMeter": 433751,
+    "gasMeter": 425073
+  },
+  {
+    "id": 533,
+    "site": "Elland",
+    "elecMeter": 433746,
+    "gasMeter": ""
+  },
+  {
+    "id": 574,
+    "site": "Poynton",
+    "elecMeter": 433427,
+    "gasMeter": ""
+  },
+  {
+    "id": 605,
+    "site": "Ramsbottom",
+    "elecMeter": 433432,
+    "gasMeter": 425218
+  },
+  {
+    "id": 635,
+    "site": "Guisborough",
+    "elecMeter": 433376,
+    "gasMeter": 425015
+  },
+  {
+    "id": 647,
+    "site": "Banchory",
+    "elecMeter": 473099,
+    "gasMeter": ""
+  },
+  {
+    "id": 651,
+    "site": "Maghull",
+    "elecMeter": 433254,
+    "gasMeter": 425084
+  },
+  {
+    "id": 693,
+    "site": "Giffnock",
+    "elecMeter": 433553,
+    "gasMeter": 425030
+  },
+  {
+    "id": 694,
+    "site": "Harehills",
+    "elecMeter": 433745,
+    "gasMeter": 425155
+  }
+]
