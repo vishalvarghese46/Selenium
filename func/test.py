@@ -7,7 +7,7 @@ pp = PrettyPrinter(indent=4)
 shaddy=[]
 Store = namedtuple("Store", "no name elecMeter gasMeter")
 
-data = json.load(jsonFile := open("meterRef.json"))
+data = json.load(open("meterRef.json"))
 
 for site in data:
     g =lambda x: None if x == "" else x
