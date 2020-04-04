@@ -14,6 +14,9 @@ for site in data:
     shaddy.append(ob:=Store(site['id'],site['site'],site['elecMeter'], g(site['gasMeter'])))
 database = tuple(shaddy)
 
+pp.pprint(database)
+'''
 g = filter(lambda x:x.gasMeter is not None, database)
 for i in g:
     print(i)
+'''
