@@ -9,7 +9,7 @@
       <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/daveweather.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/daveweather.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/wiki.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/wiki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/func/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiprocessLearn/multi.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiprocessLearn/multi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +205,8 @@
       <workItem from="1585856138661" duration="10460000" />
       <workItem from="1585918794502" duration="1221000" />
       <workItem from="1585950736667" duration="2182000" />
-      <workItem from="1586026958414" duration="6365000" />
+      <workItem from="1586026958414" duration="7707000" />
+      <workItem from="1586041344837" duration="721000" />
     </task>
     <servers />
   </component>
@@ -227,50 +228,50 @@
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585868149194" />
     <state x="2413" y="183" key="FileChooserDialogImpl/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1585865328422" />
-    <state width="1877" height="336" key="GridCell.Tab.0.bottom" timestamp="1586038934460">
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1586041970042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="336" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586038934460" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586041970042" />
     <state width="1237" height="118" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1585865404147" />
-    <state width="1877" height="336" key="GridCell.Tab.0.center" timestamp="1586038934460">
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1586041970042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="336" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586038934459" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586041970042" />
     <state width="1237" height="118" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1585865404146" />
-    <state width="1877" height="336" key="GridCell.Tab.0.left" timestamp="1586038934459">
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1586041970042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="336" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586038934459" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586041970042" />
     <state width="1237" height="118" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1585865404146" />
-    <state width="1877" height="336" key="GridCell.Tab.0.right" timestamp="1586038934460">
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1586041970042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="336" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586038934460" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586041970042" />
     <state width="1237" height="118" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1585865404147" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586037908191">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586040315733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586037908191" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1586037908191">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586040315733" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1586040315733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586037908191" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1586037908191">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586040315733" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1586040315733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586037908191" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1586037908191">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586040315733" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1586040315733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586037908191" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586040315733" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1585673665865">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585673665865" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586026958062">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586041344449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586026958062" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586041344449" />
     <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1585919748725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -291,7 +292,7 @@
     <SUITE FILE_PATH="coverage/Selenium$noLambda.coverage" NAME="noLambda Coverage Results" MODIFIED="1585867454635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
     <SUITE FILE_PATH="coverage/Selenium$namedtupleLearn__1_.coverage" NAME="namedtupleLearn (1) Coverage Results" MODIFIED="1585777037751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collectionsLearn" />
     <SUITE FILE_PATH="coverage/Selenium$jwtDt__1_.coverage" NAME="jwtDt (1) Coverage Results" MODIFIED="1585600749930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DTApi" />
-    <SUITE FILE_PATH="coverage/Selenium$multi.coverage" NAME="multi Coverage Results" MODIFIED="1586038934435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessLearn" />
+    <SUITE FILE_PATH="coverage/Selenium$multi.coverage" NAME="multi Coverage Results" MODIFIED="1586041970011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessLearn" />
     <SUITE FILE_PATH="coverage/Selenium$report.coverage" NAME="report Coverage Results" MODIFIED="1585868077180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../OBFileParsers/morrisonsReport" />
     <SUITE FILE_PATH="coverage/Selenium$req.coverage" NAME="req Coverage Results" MODIFIED="1585584886230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$walrus.coverage" NAME="walrus Coverage Results" MODIFIED="1585598707316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
