@@ -8,9 +8,15 @@ print(yesterdayDate)
 
 
 shaddy = []
+for i in shaddy:
+    print(i, len(i))
 
+
+'''
 shaddy.append(2)
 shaddy.append(3)
 
 shaddy.insert(0,1)
 print(shaddy)
+
+'''

@@ -1,5 +1,5 @@
 ,Total offline stores today | 08 Apr 2020:,145
-
+,,
 no,store,ip
 1,CHINGFORD,10.27.0.229
 10,MERRION CENTRE,10.19.0.229
@@ -146,10 +146,10 @@ no,store,ip
 641,WORTHING,10.19.190.229
 652,PORTH,10.12.174.229
 693,GIFFNOCK,10.240.106.229
-
-
+,,
+,,
 ,New offline today:,19
-
+,,
 no,store,ip
 33, DEWSBURY ROAD, 10.19.55.229
 39, ROTHERHAM BRAMLEY, 10.19.65.229
@@ -170,10 +170,10 @@ no,store,ip
 394, BAMBER BRIDGE, 10.19.100.229
 411, WIMBLEDON, 10.240.104.229
 641, WORTHING, 10.19.190.229
-
-
+,,
+,,
 ,Back online today:,19
-
+,,
 no,store,ip
 38, BLACKBURN, 10.27.50.229
 48, NEWARK, 10.19.75.229

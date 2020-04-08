@@ -1760,11 +1760,6 @@
     "ipAddress": "10.28.238.229"
   },
   {
-    "storeNo": 377,
-    "store": "MANCHESTER PICADILLY GARDENS",
-    "ipAddress": "10.12.246.229"
-  },
-  {
     "storeNo": 379,
     "store": "LIVINGSTON (CARMONDEAN CENTRE)",
     "ipAddress": "10.20.178.229"
@@ -1990,11 +1985,6 @@
     "ipAddress": "10.19.48.229"
   },
   {
-    "storeNo": 461,
-    "store": "MANCHESTER GRAFTON STREET",
-    "ipAddress": "10.241.148.229"
-  },
-  {
     "storeNo": 468,
     "store": "ABERGAVENNY",
     "ipAddress": "10.241.150.229"
@@ -2108,11 +2098,6 @@
     "storeNo": 500,
     "store": "LANARK",
     "ipAddress": "10.19.188.229"
-  },
-  {
-    "storeNo": 501,
-    "store": "SWINDON REGENTS",
-    "ipAddress": "10.11.28.229"
   },
   {
     "storeNo": 504,

@@ -5,6 +5,9 @@ from datetime import datetime, timedelta
 startTime = datetime.now()
 totalStores = 494
 
+source = r"C:\Users\VishalVarghese\Desktop\pingProject\Scripts"
+destination = r"C:\Users\VishalVarghese\Desktop\pingProject\ping"
+
 def runTime():
     exeTime = datetime.now()-startTime
     return f"{int(exeTime.seconds/60)} min {exeTime.seconds%60} sec"
@@ -14,8 +17,8 @@ def calcDate():
     reportDate = datetime.strftime(today, "%d-%m-%Y")
     return reportDate
 
-file = open("sites.json")
-result = open(f"{calcDate()}-ping.csv", "w+")
+file = open(f"{source}\sites.json")
+result = open(f"{destination}\{calcDate()}-ping.csv", "w+")
 
 offlineCount=0
 checkCount=0

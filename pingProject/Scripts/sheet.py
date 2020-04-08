@@ -2,6 +2,9 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from pprint import PrettyPrinter
 import pandas as pd
+from datetime import datetime
+
+source = r"F:\Python\Selenium\pingProject\googleSheetPost"
 
 pp = PrettyPrinter(indent=4)
 
@@ -10,10 +13,14 @@ scope = ["https://spreadsheets.google.com/feeds",
          "https://www.googleapis.com/auth/drive.file",
          "https://www.googleapis.com/auth/drive"]
 
-creds = ServiceAccountCredentials.from_json_keyfile_name("creds.json",scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name(f"{source}\creds.json",scope)
 client = gspread.authorize(creds)
 
-df = pd.read_csv('dfTest.csv', header=None)
+today = datetime.today().strftime("%d-%m-%Y")
+
+df = pd.read_csv(f"{source}\{today}-google.csv", header=None)
+
+
 sheet = client.open("Comms Check").sheet1
 
 def iter_pd(df):
