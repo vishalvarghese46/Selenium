@@ -9,7 +9,12 @@
       <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/daveweather.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/daveweather.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/wiki.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/wiki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/func/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ping/07042020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ping/08042020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ping/pingSites.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ping/simpleLam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ping/sites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ping/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,18 +61,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../OBFileParsers/Ping/sites.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Python\Selenium\test" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Python\Selenium\func" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Python\Selenium\pingProject" />
+      <recent name="F:\Python\Selenium\test" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.test (1)">
-    <configuration name="first" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="dateTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,12 +81,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pingProject" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/func/first.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pingProject/dateTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sheet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,12 +103,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocessLearn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocessLearn/multi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ping/sheet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,12 +169,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pingProject/Scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/func/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pingProject/Scripts/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.dateTest" />
+        <item itemvalue="Python.sheet" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.simpleLam" />
-        <item itemvalue="Python.first" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.multi" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +215,7 @@
       <workItem from="1586041344837" duration="770000" />
       <workItem from="1586169390177" duration="3643000" />
       <workItem from="1586259137641" duration="4879000" />
-      <workItem from="1586337537916" duration="16443000" />
+      <workItem from="1586337537916" duration="29631000" />
     </task>
     <servers />
   </component>
@@ -231,46 +237,46 @@
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586169425308" />
     <state x="2413" y="183" key="FileChooserDialogImpl/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1585865328422" />
-    <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1586363770865">
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom" timestamp="1586380934146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586363770865" />
-    <state width="1237" height="169" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1586362927402" />
-    <state width="1877" height="272" key="GridCell.Tab.0.center" timestamp="1586363770864">
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586380934146" />
+    <state width="1237" height="161" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1586372774694" />
+    <state width="1877" height="345" key="GridCell.Tab.0.center" timestamp="1586380934146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586363770864" />
-    <state width="1237" height="169" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1586362927401" />
-    <state width="1877" height="272" key="GridCell.Tab.0.left" timestamp="1586363770864">
+    <state width="1877" height="345" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586380934146" />
+    <state width="1237" height="161" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1586372774694" />
+    <state width="1877" height="345" key="GridCell.Tab.0.left" timestamp="1586380934146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586363770864" />
-    <state width="1237" height="169" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1586362927400" />
-    <state width="1877" height="272" key="GridCell.Tab.0.right" timestamp="1586363770864">
+    <state width="1877" height="345" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586380934146" />
+    <state width="1237" height="161" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1586372774694" />
+    <state width="1877" height="345" key="GridCell.Tab.0.right" timestamp="1586380934146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586363770864" />
-    <state width="1237" height="169" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1586362927401" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586353369394">
+    <state width="1877" height="345" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586380934146" />
+    <state width="1237" height="161" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1586372774694" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586366360800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586353369394" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1586353369393">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586366360800" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1586366360800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586353369393" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1586353369393">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586366360800" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1586366360800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586353369393" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1586353369393">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586366360800" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1586366360800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586353369393" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1585673665865">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586366360800" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1586366036578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585673665865" />
+    <state x="461" y="162" key="SettingsEditor/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586366036578" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586337552748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -283,6 +289,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="dock-window-2/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1585919748725" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1586380181524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1586380181524" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585569516823">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -301,6 +311,7 @@
     <SUITE FILE_PATH="coverage/Selenium$req.coverage" NAME="req Coverage Results" MODIFIED="1585584886230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$walrus.coverage" NAME="walrus Coverage Results" MODIFIED="1585598707316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Selenium$namedTuple.coverage" NAME="namedTuple Coverage Results" MODIFIED="1585758105980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collectionsLearn" />
+    <SUITE FILE_PATH="coverage/Selenium$dateTest.coverage" NAME="dateTest Coverage Results" MODIFIED="1586377349684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pingProject" />
     <SUITE FILE_PATH="coverage/Selenium$counterLearn__1_.coverage" NAME="counterLearn (1) Coverage Results" MODIFIED="1585688025170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collectionsLearn" />
     <SUITE FILE_PATH="coverage/Selenium$basicAuth.coverage" NAME="basicAuth Coverage Results" MODIFIED="1585758171195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DTApi" />
     <SUITE FILE_PATH="coverage/Selenium$defaultdictLearn.coverage" NAME="defaultdictLearn Coverage Results" MODIFIED="1585758787255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collectionsLearn" />
@@ -313,11 +324,12 @@
     <SUITE FILE_PATH="coverage/Selenium$namedTupleExercise.coverage" NAME="namedTupleExercise Coverage Results" MODIFIED="1585765805950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collectionsLearn" />
     <SUITE FILE_PATH="coverage/Selenium$main.coverage" NAME="main Coverage Results" MODIFIED="1585568086514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$dequeLearn.coverage" NAME="dequeLearn Coverage Results" MODIFIED="1585690720681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collectionsLearn" />
+    <SUITE FILE_PATH="coverage/Selenium$sheet.coverage" NAME="sheet Coverage Results" MODIFIED="1586373860788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ping" />
     <SUITE FILE_PATH="coverage/Selenium$allSiteIP.coverage" NAME="allSiteIP Coverage Results" MODIFIED="1585919746302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
-    <SUITE FILE_PATH="coverage/Selenium$test.coverage" NAME="test Coverage Results" MODIFIED="1586261322898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
+    <SUITE FILE_PATH="coverage/Selenium$test.coverage" NAME="test Coverage Results" MODIFIED="1586380845811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pingProject/Scripts" />
     <SUITE FILE_PATH="coverage/Selenium$lamb.coverage" NAME="lamb Coverage Results" MODIFIED="1586029154500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
     <SUITE FILE_PATH="coverage/Selenium$timeLambda.coverage" NAME="timeLambda Coverage Results" MODIFIED="1585861344437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
-    <SUITE FILE_PATH="coverage/Selenium$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1586363770836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ping" />
+    <SUITE FILE_PATH="coverage/Selenium$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1586368109720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ping" />
     <SUITE FILE_PATH="coverage/Selenium$counterTest.coverage" NAME="counterTest Coverage Results" MODIFIED="1585757704868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collectionsLearn" />
     <SUITE FILE_PATH="coverage/Selenium$first.coverage" NAME="first Coverage Results" MODIFIED="1586354014234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
     <SUITE FILE_PATH="coverage/Selenium$basicAuth__1_.coverage" NAME="basicAuth (1) Coverage Results" MODIFIED="1585600769761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DTApi" />

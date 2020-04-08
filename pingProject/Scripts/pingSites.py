@@ -15,7 +15,7 @@ def calcDate():
     return reportDate
 
 file = open("sites.json")
-result = open(f"{calcDate()}.csv", "w+")
+result = open(f"{calcDate()}-ping.csv", "w+")
 
 offlineCount=0
 checkCount=0
