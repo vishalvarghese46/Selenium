@@ -39,7 +39,7 @@ for site in data:
     checkCount+=1
     print(f"[progress: {format(checkCount / totalStores * 100, '.2f')}% done... ({checkCount}/{totalStores}) completed.]\n")
 
-result.write(f'\n\n\n,{str(offlineCount)} Sites Offline!')
+#result.write(f'\n\n\n,{str(offlineCount)} Sites Offline!')
 print(f'***Task completed in {runTime()}')
 
 file.close()
