@@ -73,4 +73,3 @@ output.write("no,store,ip\n")
 for o in newOnlineList:
     output.write(f"{o}\n")
 output.close()
-
