@@ -85,11 +85,6 @@
     "ipAddress": "10.27.25.229"
   },
   {
-    "storeNo": 25,
-    "store": "INCE",
-    "ipAddress": "10.27.30.229"
-  },
-  {
     "storeNo": 26,
     "store": "DARLINGTON NORTH ROAD",
     "ipAddress": "10.11.150.229"
@@ -1979,12 +1974,7 @@
     "store": "GIBRALTAR WESTSIDE",
     "ipAddress": "10.240.96.229"
   },
-  {
-    "storeNo": 460,
-    "store": "SHEFFIELD BROOMHILL",
-    "ipAddress": "10.19.48.229"
-  },
-  {
+ {
     "storeNo": 468,
     "store": "ABERGAVENNY",
     "ipAddress": "10.241.150.229"
@@ -2358,11 +2348,6 @@
     "storeNo": 635,
     "store": "GUISBOROUGH",
     "ipAddress": "10.20.188.229"
-  },
-  {
-    "storeNo": 639,
-    "store": "CRAWLEY",
-    "ipAddress": "10.19.162.229"
   },
   {
     "storeNo": 640,
