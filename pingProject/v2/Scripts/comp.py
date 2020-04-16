@@ -9,7 +9,7 @@ source = r'F:\Python\Selenium\pingProject\ping'
 destination = r'F:\Python\Selenium\pingProject\googleSheetPost'
 
 
-Store = namedtuple("Store", "no name ip")
+Store = namedtuple("Store", "no name ip sur man")
 
 todayDate = datetime.today().strftime("%d-%m-%Y")
 yesterdayDate = (datetime.today() - timedelta(1)).strftime("%d-%m-%Y")
@@ -19,7 +19,8 @@ tData = open(f"{source}\{todayDate}-ping.csv")
 
 def nTupleCreation(fileOb, database):
     for line in fileOb:
-        ob = Store(line.rstrip().split(",")[0], line.rstrip().split(",")[1], line.rstrip().split(",")[2])
+        ob = Store(line.rstrip().split(",")[0], line.rstrip().split(",")[1], line.rstrip().split(",")[2],
+                   line.rstrip().split(",")[3], line.rstrip().split(",")[4])
         database.append(ob)
     return database
 
@@ -40,36 +41,45 @@ newOnline = filter(lambda x: True if x.no not in tOfflineNo else False, y)
 #print(f"\nNew offline: ")
 newOfflineList = []
 for i in newOffline:
-    newOfflineList.append(f"{i.no}, {i.name}, {i.ip}")
+    newOfflineList.append(f"{i.no},{i.name},{i.ip},{i.sur},{i.man}")
 #pp.pprint(newOfflineList)
 
 #print(f"\nNew Online: ")
 newOnlineList = []
 for i in newOnline:
-    newOnlineList.append(f"{i.no}, {i.name}, {i.ip}")
+    newOnlineList.append(f"{i.no},{i.name},{i.ip},{i.sur},{i.man}")
 #pp.pprint(newOnlineList)
 
 todayOfflineCount = reduce(lambda acc, val: acc + 1, t,0)
-mappo = map(lambda x: f"{x.no},{x.name},{x.ip}",t)
+mappo = map(lambda x: f"{x.no},{x.name},{x.ip},{x.sur},{x.man}",t)
 
 output = open(f"{destination}\{todayDate}-google.csv","w+")
-output.write(f",Total offline stores today | {datetime.today().strftime('%d %b %Y')}:,{todayOfflineCount}\n")
-output.write(",,\n")
-output.write("no,store,ip\n")
+output.write(f",Total offline stores today | {datetime.today().strftime('%d %b %Y')}:,{todayOfflineCount},,\n")
+output.write(",,,,\n")
+output.write("no,store,ip,surveyor,manager\n")
 for i in mappo:
     output.write(f"{i}\n")
-output.write(",,\n")
-output.write(",,\n")
+output.write(",,,,\n")
+output.write(",,,,\n")
 output.write(f",New offline today:,{len(newOfflineList)}\n")
-output.write(",,\n")
-output.write("no,store,ip\n")
-for n in newOfflineList:
-    output.write(f"{n}\n")
-output.write(",,\n")
-output.write(",,\n")
+if len(newOfflineList) == 0:
+    output.write(",,,,\n")
+    output.write(",,,,\n")
+else:
+    output.write(",,,,\n")
+    output.write("no,store,ip,surveyor,manager\n")
+    for n in newOfflineList:
+        output.write(f"{n}\n")
+    output.write(",,,,\n")
+    output.write(",,,,\n")
+
 output.write(f",Back online today:,{len(newOnlineList)}\n")
-output.write(",,\n")
-output.write("no,store,ip\n")
-for o in newOnlineList:
-    output.write(f"{o}\n")
+if len(newOnlineList) == 0:
+    output.write(",,,,\n")
+    output.write(",,,,\n")
+else:
+    output.write(",,,,\n")
+    output.write("no,store,ip,surveyor,manager\n")
+    for o in newOnlineList:
+        output.write(f"{o}\n")
 output.close()

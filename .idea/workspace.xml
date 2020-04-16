@@ -9,18 +9,8 @@
       <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/daveweather.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/daveweather.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/daveWeather/Selenium/wiki.py" beforeDir="false" afterPath="$PROJECT_DIR$/daveWeather/Selenium/wiki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/Scripts/comp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/Scripts/coreTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/Scripts/pingPlot.gs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/Scripts/pingSites.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/Scripts/pingv2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/Scripts/pingv2Thread.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/Scripts/sheet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/Scripts/sites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/dateTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/googleSheetPost/08-04-2020-google.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/ping/08-04-2020-ping.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingProject/simpleLam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingProject/v2/Scripts/comp.py" beforeDir="false" afterPath="$PROJECT_DIR$/pingProject/v2/Scripts/comp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingProject/v2/Scripts/sites.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +223,7 @@
       <workItem from="1586603011068" duration="1351000" />
       <workItem from="1586686803517" duration="2487000" />
       <workItem from="1586875097518" duration="6785000" />
-      <workItem from="1587043108933" duration="3680000" />
+      <workItem from="1587043108933" duration="8814000" />
     </task>
     <servers />
   </component>
